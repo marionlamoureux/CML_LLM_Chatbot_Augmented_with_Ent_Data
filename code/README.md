@@ -72,3 +72,4 @@ To create the application go to **Applications** > **New Application** with the 
 * **GPUs**: 1 GPU
 
 ![create_app](../images/create_app.png)
+![final_app](../images/final_app.png)
