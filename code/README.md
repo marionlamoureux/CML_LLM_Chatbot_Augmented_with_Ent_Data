@@ -52,6 +52,8 @@ In this step we will:
 
 We will be using a Jupyter Notebook. For this, we need to start a **New Session** using Jupyterlab 2 vCPU / 8 GiB Memory and open the `code/3_job_ipynb-populate-vectordb/vectordb_insert.ipynb` file.
 
+![new_session_2](../images/new_session_2.png)
+
 _Note: You can also schedule a job for this step, for that you will follow the same steps as the previous point and add the `code/3_job_ipynb-populate-vectordb/vectordb_insert.py` script._
 
 
