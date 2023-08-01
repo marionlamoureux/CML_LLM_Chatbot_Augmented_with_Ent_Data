@@ -14,10 +14,21 @@ The first step for the second part of the lab will be to create another project 
 
 
 ## 0_session-resource-validation
-Before starting the project, a GPU resource validation needs to happen. For this you will need to open the files `check_gpu_capability.py` and `check_gpu_resources.py` in a normal workbench Python3 session. You must select 1 GPU from the **Resource Profile**. Once the session is loaded, click **Run > Run All**. This will do the initial checks.
+Before starting the project, a GPU resource validation needs to happen. 
+
+For this you will need to create a session (this session will be used on the next step - installing the dependencies as well). Follow these steps:
+1. Go to Sessions --> **New Session**
+2. Select **Workbench** for the Editor and **Python 3.9** for the Kernel, and Edition **Nvidia GPU**
+3. You must select 1 GPU from the **Resource Profile**. 
+4. Create session
+![new_session](../images/new_session.png)
+
+Once the session is running,open the `check_gpu_capability.py` script, then click **Run > Run All**.
+Repeteat the same process with the `check_gpu_resources.py` script. This will do the initial checks.
+
 
 ## 1_session-install-deps
-- Install python dependencies specified in 1_session-install-deps/requirements.txt
+To install the dependencies for this project, you will need to run the script `code/1_session-install-deps/install_dependencies.py` by opening the script and clicking **Run > Run All**. this will install the python dependencies specified in `code/1_session-install-deps/requirements.txt`
 
 ## 2_job-download-models
 Definition of the job **Download Models** 

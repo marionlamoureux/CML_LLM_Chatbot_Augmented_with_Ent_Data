@@ -12,3 +12,5 @@ if version[0] <= 5:
         "GPU instance type" % (version[0], version[1], device)
 
     sys.exit(msg)
+else:
+  print("CUDA Capability: "+ str(version))
