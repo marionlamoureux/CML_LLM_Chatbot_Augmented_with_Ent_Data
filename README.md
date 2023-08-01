@@ -72,13 +72,14 @@ This AMP requires pip packages and models from huggingface. Depending on your CM
 The project is organized with the following folder structure:
 ```
 .
-├── 0_session-resource-validation/  # Script for checking CML workspace requirements
-├── 1_session-install-deps/   # Setup script for installing python dependencies
-├── 2_job-download-models/    # Setup scripts for downloading pre-trained models
-├── 3_job-populate-vectordb/  # Setup scripts for initializing and populating a vector database with context documents
-├── 4_app/                    # Backend scripts for launching chat webapp and making requests to locally running pre-trained models
-├── data/                     # Sample documents to use to context retrieval
-├── utils/                    # Python module for functions used for interacting with pre-trained models
+├── code/                                 # Backend scripts, and notebooks needed to create project artifacts
+      ├───0_session-resource-validation/  # Script for checking CML workspace requirements
+      ├───1_session-install-deps/         # Setup script for installing python dependencies
+      ├───2_job-download-models/          # Setup scripts for downloading pre-trained models
+      ├───3_job-populate-vectordb/        # Setup scripts for init and pop a vector database with context docs
+      ├───4_app/                          # Backend scripts for launching app and making reqs to local pre-trained models
+      ├───utils/                          # Python module for functions used for interacting with pre-trained models
+├── data/                                 # Sample documents to use to context retrieval
 ├── images/
 ├── README.md
 └── LICENSE.txt
