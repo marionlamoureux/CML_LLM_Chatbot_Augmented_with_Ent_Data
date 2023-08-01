@@ -3,6 +3,10 @@ import gradio
 
 from milvus import default_server
 from pymilvus import connections, Collection
+
+import sys
+sys.path.append("./code")
+
 import utils.model_llm_utils as model_llm
 import utils.vector_db_utils as vector_db
 import utils.model_embedding_utils as model_embedding
@@ -15,9 +19,9 @@ def main():
                             inputs=gradio.Textbox(label="Question", placeholder=""),
                             outputs=[gradio.Textbox(label="Asking LLM with No Context"),
                                      gradio.Textbox(label="Asking LLM with Context (RAG)")],
-                            examples=["What are ML Runtimes?",
-                                      "What kinds of users use CML?",
-                                      "How do data scientists use CML?"],
+                            examples=["What is the max credit?",
+                                      "What is the grace period for students?",
+                                      "What are the benefits for sororities?"],
                             allow_flagging="never")
 
 
@@ -33,7 +37,7 @@ def main():
 def get_responses(question):
     
     # Load Milvus Vector DB collection
-    vector_db_collection = Collection('cloudera_ml_docs')
+    vector_db_collection = Collection('credit_card_ml_contracts')
     vector_db_collection.load()
     
     # Phase 1: Get nearest knowledge base chunk for a user question from a vector db

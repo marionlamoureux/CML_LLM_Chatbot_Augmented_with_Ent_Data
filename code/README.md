@@ -31,21 +31,42 @@ Repeteat the same process with the `check_gpu_resources.py` script. This will do
 To install the dependencies for this project, you will need to run the script `code/1_session-install-deps/install_dependencies.py` by opening the script and clicking **Run > Run All**. this will install the python dependencies specified in `code/1_session-install-deps/requirements.txt`
 
 ## 2_job-download-models
-Definition of the job **Download Models** 
-- Directly download specified models from huggingface repositories
-- These are pulled to new directories models/llm-model and models/embedding-model
+To download the models we will schedule a job that will directly download specified models from the huggingface repositories. These are pulled to new directories `models/llm-model` and `models/embedding-model`. 
+To create a new job, go to **Jobs > New Job** (in the left side bar) and enter the following settings:
+
+* **Name**: Download Models
+* **Script**:code/2_job-download-models/download_models.py
+* **Arguments**:Leave blank
+* **Kernel**: Python 3
+* **Schedule**: Manual
+* **Engine Profile**: 2 vCPU / 8 GiB Memory
+
+![schedule_job](../images/schedule_job.png)
 
 ## 3_job-populate-vectordb
-Definition of the job **Populate Vector DB with documents embeddings**
-- Start the milvus vector database and set database to be persisted in new directory milvus-data/
-- Generate embeddings for each document in data/
-- The embeddings vector for each document is inserted into the vector database
-- Stop the vector database
+In this step we will:
+- Start a milvus vector database and set database to be persisted in new directory `milvus-data/`
+- Generate embeddings for each document in `data/`
+- The embeddings vector for each document will be inserted into the vector database
+- Finally stop the vector database
+
+We will be using a Jupyter Notebook. For this, we need to start a **New Session** using Jupyterlab 2 vCPU / 8 GiB Memory and open the `code/3_job_ipynb-populate-vectordb/vectordb_insert.ipynb` file.
+
+_Note: You can also schedule a job for this step, for that you will follow the same steps as the previous point and add the `code/3_job_ipynb-populate-vectordb/vectordb_insert.py` script._
+
 
 ## 4_app
-Definition of the application `CML LLM Chatbot`
-- Start the milvus vector database using persisted database data in milvus-data/
-- Load locally persisted pre-trained models from models/llm-model and models/embedding-model 
-- Start gradio interface 
-- The chat interface performs both retrieval-augmented LLM generation and regular LLM generation for bot responses.
+The last step of our lab will be focused on creating an application where we we will have a chat interface that performs both retrieval-augmented LLM generation and regular LLM generation for bot responses.
 
+To create the application go to **Applications** > **New Application** with the following details: 
+* **Name**: CML LLM Chatbot
+* **Subdomain**: llmApp _(note: this needs to be unique, so if you've done this before, 
+  pick a more random subdomain name)_
+* **Script**: code/4_app/llm_rag_app.py
+* **Kernel**: Python 3
+* **Edition**: Nvidia GPU
+* **Engine Profile**: 2vCPU / 16 GiB Memory
+* **Enable Spark toggle**: No
+* **GPUs**: 1 GPU
+
+![create_app](../images/create_app.png)
