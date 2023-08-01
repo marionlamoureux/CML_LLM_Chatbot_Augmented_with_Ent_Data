@@ -1,4 +1,5 @@
-# LLM Chatbot Augmented with Enterprise Data 
+# PART 2 CML Workshop
+## LLM Chatbot Augmented with Enterprise Data 
 
 This repository demonstrates how to use an open source pre-trained instruction-following LLM (Large Language Model) to build a ChatBot-like web application. The responses of the LLM are enhanced by giving it context from an internal knowledge base. This context is retrieved by using an open source Vector Database to do semantic search. 
 
