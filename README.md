@@ -77,7 +77,7 @@ The project is organized with the following folder structure:
       ├───1_session-install-deps/         # Script for installing python dependencies
       ├───2_job-download-models/          # Scripts for downloading pre-trained models
       ├───3_job-populate-vectordb/        # Scripts for init and pop a vector db with context docs
-      ├───4_app/                          # Scripts for app and the reqs to local pre-trained models
+      ├───4_app/                          # Scripts for app and the reqs to the pre-trained models
       ├───utils/                          # Python module for functions used across the project
 ├── data/                                 # Sample documents to use to context retrieval
 ├── images/
