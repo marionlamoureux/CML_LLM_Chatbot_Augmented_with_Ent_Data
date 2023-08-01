@@ -87,9 +87,9 @@ The project is organized with the following folder structure:
 ### `data/`
 This directory stores all the individual sample documents that are used for context retrieval in the chatbot application
 - Sourced from:
+  - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/)
   - [CML](https://docs.cloudera.com/machine-learning/cloud/index.html)
-  - [Iceberg](https://iceberg.apache.org/docs/1.2.0/)
-  - [Ozone](https://docs.cloudera.com/cdp-private-cloud-base/7.1.8/ozone-overview/topics/ozone-introduction.html)
+
 
 ### `1_session-install-deps`
 - Install python dependencies specified in 1_session-install-deps/requirements.txt
