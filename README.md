@@ -126,4 +126,4 @@ Definition of the application `CML LLM Chatbot`
 ## Deploying on CML
 There are two ways to launch this prototype on CML, for the purpose of this workshop we will be deploying it in the following way:
 
- **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/nhernandezdlm/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data.git), click "Create Project", click "Configure Project"
+ **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/nhernandezdlm/CML_LLM_Chatbot_Augmented_with_Enterprise_Data.git), click "Create Project", click "Configure Project"
