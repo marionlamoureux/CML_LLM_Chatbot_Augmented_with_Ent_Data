@@ -1,0 +1,59 @@
+6.2
+
+6.3
+
+6.4
+
+WARRANTIES AND INDEMNITIES
+Bank warrants to you that:
+
+6.1.1. it will perform its obligations under this Agreement with reasonable skill, care and
+diligence; and
+
+6.1.2 in performing its obligations under this Agreement, it will comply with all
+applicable statutes and regulations applicable to its role as Card-issuing Bank
+and creditor, including the Privacy Rules.
+
+You warrant to Bank that you shall:
+
+6.2.1 perform your obligations under this Agreement with reasonable skill, care and
+diligence;
+
+6.2.2 perform your obligations under this Agreement in compliance with all statutes
+and regulations applicable to you; and
+
+6.2.3 not share, recompile, decompile, disassemble, reverse engineer, or make or
+distribute any other form of, or any derivative work from, any software or
+hardware contained in the Hosted Website or the Bank's Website or furnished by
+the Bank in connection with the Program. -
+
+Each Party warrants to the other Party that:
+
+6.3.1 it is duly organized, validly existing and in good standing under the laws of the
+state where it was organized and in each state in which it does business;
+
+6.3.2 no consent, approval or authorization from any third party is required in
+connection with its execution, delivery and performance of this Agreement,
+except such as have been obtained and are in full force and effect as of the
+Effective Date;
+
+6.3.3 it has the right, power and authority to perform its obligations under, and to enter
+into, this Agreement; and
+
+6.3.4 it shall cooperate with the other Party in the performance of this Agreement at all
+times in good faith.
+
+You shall indemnify, hold harmless, and defend the Bank and the Card Association,
+each of their Affiliates, and their personnel from and against any and all Losses incurred
+by any of them in connection with, or which arise out of, or result from, or are based
+upon:
+
+6.4.1 any grossly negligent or willful acts or omissions by you related to the Accounts
+or to this Agreement;
+
+6.4.2 an irremediable breach by you of this Agreement, or failure to remedy a
+remediable such breach within 30 days of notice from Bank to do so;
+
+6.4.3 any breach of the warranty and agreement you make in Section 5.2 and Section
+6.2.3; or
+

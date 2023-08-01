@@ -1,0 +1,44 @@
+6.
+
+Fordham?s possession or in the possession of an affiliate, employee, volunteer, agent, and/or
+Representative. Fordham will cooperate fully (and cause its subcontractors and its and their
+respective Representatives and Agents to cooperate fully) with Bank to investigate, resolve and
+control security incidents. Fordham will reimburse Bank for its cost of producing and mailing
+any notice required by Applicable Law that informs the Customer of a security breach and will
+pay for any credit monitoring service or other remedy that is provided to affected Customers.
+Fordham will monitor {and will cause its subcontractors and its and their respective
+Representatives and Agents to monitor) industry-standard information channels for newly
+identified system vulnerabilities and fix or patch any identified security problem in an adequate
+and timely manner. Unless otherwise expressly agreed in writing, ?timely? will mean that
+Fordham will introduce (and cause its subcontractors and its and their respective
+Representatives and Agents to introduce) such fix or patch as soon as commercially reasonable
+after Fordham (or its subcontractors and its and their respective Representatives and Agents)
+becomes aware of the security problem). This obligation extends to all devices that comprise
+Fordham?s system (or that of its subcontractors and its and their respective Representatives and
+Agents), including application software, databases, servers, firewalls, routers and switches, hubs
+and to all of Fordham?s other Information handling practices.
+
+(g) The provisions of this Section 7 shall survive the expiration or earlier termination of this
+Agreement.?
+
+Delete Section 8 in its entirety and replace it with the following:
+
+?8, TERM OF AGREEMENT
+(a) The term of this Agreement shall begin on the Effective Date and end on January 31,
+2020 (?Initial Term?).
+
+(b) This Agreement shall automatically extend at the end of the Initial Term or any renewal
+term for successive two-year periods (each a ?Renewal Term?: and together with the Initial
+Term, the ?Term?), unless either Party gives written notice of its intention not to renew at least
+90 and not more than 180 days, prior to the end of the then current Term.?
+
+This Amendment may be executed in any number of counterparts, each of which will be
+
+considered an original, and all of which will be deemed one and the same instrument. The Agreement,
+as amended by this Amendment, contains the entire agreement of the Parties with respect to the
+matters covered and no other or prior promises, negotiations or discussions, oral or written, made by
+any Party or its employees, officers or agents will be valid and binding.
+
+[Remainder of this page intentionally blank ? signature page follows]
+
+Draft - Fordham University Term Ext Amendment (BANA 2017-09-25) (4

@@ -1,0 +1,37 @@
+Bank upon demand an amount equal to the difference between the total amount of the Advance(s) paid by Bank
+and the total amount of accrued Royalties credited by Bank against such Advance(s) as of the date of such
+demand, in the event any of the conditions set forth in Clauses (i) through (iv) below should occur:
+
+(i) the Agreement is terminated prior to the end of the Initial Term as stated in this Agreement as of
+the Effective Date;
+
+(ii) GUAA breaches any of its obligations under this Agreement;
+
+(iii) Bank is prohibited or otherwise prevented from conducting at least six (6) direct mail campaigns to
+the full updated Marketing List during each consecutive twelve (12) month period during the Term;
+and
+
+{iv) Bank is prohibited or otherwise prevented from conducting at least one (1) email campaign to the
+full updated Marketing List during each consecutive twelve (12) month period during the Term.
+
+For the avoidance of doubt, if any of the conditions set forth in (ii) through (iv) above should occur, Bank ceases
+to pay any further Advances to GUAA and GUAA repays to Bank an amount equal to the difference between the
+total amount of the Advance(s) paid by Bank and the total amount of accrued Royalties credited by Bank against
+such Advance(s) as of the date of Bank?s demand of such repayment (i.e., GUAA satisfies Bank?s demand in
+subpart (y) above), then for the remainder of the Term (if any) GUAA shall continue accruing Royalties and Bank
+shall pay GUAA all Royalties accrued by GUAA in accordance with this Agreement.
+
+2. If during any given year(s) during the Initial Term, Bank recoups all prior Advances paid by it to GUAA in prior
+years, and pays GUAA Royalties accrued by GUAA over and above the Royalties used by Bank to recoup such
+prior Advances (the ?Paid Out Royalties?), then Bank may reduce the amount of any subsequent Advance(s) due
+by the amount of any such Paid Out Royalties.
+
+F. ROYALTY GUARANTEE
+
+GUAA shall be guaranteed to accrue Eligible Royalties (including the amount of the Advances) equal to or
+greater than eight hundred fifteen thousand dollars ($815,000) (the ?Guarantee Amount?) by March 31, 2024,
+subject to the provisions set forth below. If on March 31, 2024, GUAA has not accrued $815,000 in Eligible
+Royalties, Bank will pay GUAA an amount equal to the Guarantee Amount minus the sum of all compensation
+accrued by GUAA up to and including March 31, 2024 and all unrecouped Advances. Notwithstanding the
+foregoing, this Royalty Guarantee and any obligation of Bank hereunder shall be expressly contingent upon the
+non-occurrence of any of the conditions set forth in Subsection E.1., above.

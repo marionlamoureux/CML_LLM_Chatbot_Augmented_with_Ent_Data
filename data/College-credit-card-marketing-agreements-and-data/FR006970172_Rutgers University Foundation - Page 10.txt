@@ -1,0 +1,58 @@
+that its performance of the transactions contemplated hereby do not contravene, violate or conflict with, or constitute a default under,
+any provision of Applicable Law.
+
+SECTION 9; INDEMNIFICATION AND LIMITATION OF LIABILITY
+
+9.1 ENBO. FNBO shall indemnify, defend, and hold RUF and its Affiliates harmless from and against any and all Claims by third parties
+to the extent arising or resulting from: (a) breach by FNBO of any agreement, representation or warranty of FNBO contained in this
+Agreement; (b) FNBO's gross negligence or intentional misconduct related to its duties or obligations under this Agreement; (c)
+material violation by FNBO of any Applicable Law; (d) infringement of copyright, trademark, trade secret or other proprietary rights
+relating to FNBO Marks; (e) breach by FNBO of its obligations with respect to Confidential Information; (f) the actions or failure to act of
+FNBO Subcontractors related to duties under the Program provided on behalf and at the direction of FNBO; and (g) duties, obligations
+and liabilities between FNBO and its Subcontractors related to duties such Subcontractors are performing under the Program on behalf
+and at the direction of FNBO,
+
+9.2 RUF. RUF shall indemnify, defend, and hold FNBO and its Affiliates harmless from and against any and all Claims by third parties
+to the extent arising or resulting from: (a} breach by RUF of any agreement, representation or warranty of RUF contained in this
+Agreement; (b) RUF?s gross negligence or intentional misconduct related to its duties or obligations under this Agreement; (c) material
+violation by RUF of any Applicable Law; (d) infringement of copyright, trademark, trade secret or other proprietary rights relating to RUF
+Marks; (e) breach by RUF of its obligations with respect to Confidential Information; (f) RUF authorizing FNBO to use the Member Lists
+as authorized and for the purposes specified herein; (g) the actions or failure to act of RUF Subcontractors; and (h) duties, obligations
+and liabilities between RUF and its Subcontractors.
+
+9.3 Notice. If a party receives notice of any third party Claim for which indemnification or defense may be required under this
+Agreement, such party shall promptly give written notice to the other party; provided, however, that the failure to provide or a delay in
+providing such notice shall not relieve the Indemnifying Party of its obligation to indemnify except to the extent the Indemnifying Party is
+materially prejudiced by such failure or delay. Upon request, the Indemnified Party shall reasonably cooperate with and assist the
+Indemnifying Party and its counsel in the defense of any Claim and any reasonable direct costs and expenses associated with such
+cooperation or assistance shall be paid by the Indemnifying Party.
+
+9.4 Procedure. The Indemnifying Party shall pay for and also have the right to assume and control the defense of any third party Claim
+and shall reasonably defend such Claim with diligence. In the event of an assumption of the defense by the Indemnifying Party, the
+Indemnified Party shall continue to have the right to employ its own counsel, at its expense. The Indemnifying Party shall not be entitled
+to settle or compromise any Claim that does not include a full and unconditional release of the Indemnified Party or that imposes
+obligations on the Indemnified Party except after (a) having fully disclosed to the Indemnified Party the proposed terms and conditions
+of such setilement or compromise; and (b) having obtained the Indemnified Party's prior written consent thereto, which consent shall
+not be unreasonably withheld.
+
+9.5 Limitation of Liability. EXCEPT TO THE EXTENT SUCH DAMAGES ARISE FROM A PARTY'S BREACH OF SECTION 7,
+SECTION 2.10 OR ARE A PART OF A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 9, NEITHER PARTY WILL
+BE LIABLE FOR SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES. IN NO EVENT WILL EITHER PARTY BE
+LIABLE FOR EXEMPLARY DAMAGES.
+
+SECTION 10: COMPLIANCE
+
+10.1 Applicable Law and Network Rules. FNBO and RUF agree to perform their respective duties and obligations under this Agreement
+and the Program in accordance with Applicable Law and Network Rules, FNBO and RUF agree not to engage in any unfair, deceptive
+or abusive acts and practices in the course of Its provision of products or performance of services and duties under the Program and
+this Agreement. In addition to, and without limiting the generality of the foregoing, neither party shall offer any tangible item to any
+college student in order to induce such student fo apply for a credit card: (a) on the campus of an institution of higher education; (b)
+near the campus of an institution of higher education; or (c) at an event sponsored by or related to an institution of higher education. If
+in FNBO's assessment, RUF qualifies as an institution of higher education or an affiliated organization, FNBO will submit to the Board
+of Governors of the Federal Reserve System an annual report containing information as required in 15 U.S.C. ? 1637. If RUF qualifies
+as an institution of higher education, RUF may have reporting and public disclosure requirements which shall remain the sole
+responsibility of the RUF. The terms ?college student?, ?institution of higher education? and ?affiliated organization" in this Section 10.4
+shall have the same meaning, respectively, as those terms are defined and used in the Truth In Lending Act, 15 U.S.C. ? 1650 et seq.,
+as amended by the Credit Card Accountability Responsibility and Disclosure Act of 2009, 15 U.S.C. ? 1601 et seq.
+
+10 mwk 6-21-16

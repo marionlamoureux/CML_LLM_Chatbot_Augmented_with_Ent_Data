@@ -1,0 +1,52 @@
+10.
+
+respective Representatives and Agents to introduce) such fix or patch as soon as commercially
+reasonable after ISUAA (or its Subcontractors and their respective Representatives and Agents} becomes
+aware of the security problem). This obligation extends to all devices that comprise ISUAA?s system (or
+that of its Subcontractors and their respective Representatives and Agents), including application
+software, databases, servers, firewalls, routers and switches, hubs and to all of ISUAA?s other
+Information handling practices.
+
+(f) The provisions of this Section 7 shall survive the expiration or earlier termination of this
+Agreement.
+
+TERM OF AGREEMENT
+
+(a) The initial term of this Agreement shall begin on the Effective Date and unless sooner
+terminated in accordance with this Agreement or by further agreement of the Parties, end on June 30,
+2026 (?Initial Term?),
+
+(b) This Agreement shall automatically extend at the end of the Initial Term or any renewal term for
+successive one-year periods, unless sooner terminated in accordance with this Agreement or by further
+agreement of the Parties (each a ?Renewal Term?; and together with the Initial Term, the ?Term?),
+unless either Party gives written notice of its intention not to renew at least 90 and not more than 180
+days, prior to the end of the then current Term.
+
+STATE LAW GOVERNING AGREEMENT
+
+This Agreement and all rights and obligations hereunder, including matters of construction, validity and
+performance shall be governed by, and construed and enforced in accordance with, the internal Laws of
+the State of Delaware applicable to contracts entered into and performed entirely within the State of
+Delaware, without giving effect to any choice of law or conflict of laws rules or provisions (whether of the
+State of Delaware or any other jurisdiction) that would cause the application of the Laws of any jurisdiction
+other than the State of Delaware and shall be deemed for all purposes to be made and fully performed in
+Delaware, The United Nations Convention on Contracts for the International Sale of Goods is expressly
+disclaimed and excluded.
+
+GROUP MARKETING
+
+(a) With Bank?s prior written consent, ISUAA may conduct solicitation efforts for credit card
+products offered under the Program; provided ISUAA pays for all marketing and solicitation expenses
+associated with such efforts; and further provided the Parties mutually agree that such marketing shall
+qualify for treatment pursuant to this Section 10 (?Group Marketing Effort? or ?GIP?). ISUAA will design
+and produce, at its expense, all marketing material with regard to any Group Marketing Effort. ISUAA
+will seek Bank?s approval at least sixty (60) days prior to its desired date to engage in any GIP.
+
+(b) All GIP marketing materials must be coded by ISUAA as instructed by Bank for tracking purposes.
+Credit Card Accounts generated from any GIP will entitle ISUAA to the Royalty for GIP specified in
+Schedule A, subject to the other terms and conditions of this Agreement. Notwithstanding anything in
+this Agreement to the contrary, Credit Card Accounts opened from or arising out of marketing materials
+available to, or inquiries from Members which do not contain or reference such coding shall not
+constitute GIP Accounts and will not qualify for any GIP Royalty.
+
+-15-

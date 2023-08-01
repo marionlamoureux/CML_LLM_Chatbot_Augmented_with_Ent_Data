@@ -1,0 +1,59 @@
+Recipient any rights, title or interest in or to any Confidential Information. The parties acknowledge and agree that no
+nonpublic personal information as defined in 12 CFR ? 1016.3(p) (Privacy of Consumer Financial Information ? Regulation
+P) will be shared by either party pursuant to this Agreement.
+
+7.2 Exclusions; Exceptions. The confidentiality obligations contained herein do not apply to Confidential
+Information that: (a) is, at the time of disclosure to Recipient or any time thereafter, becomes, through no act or omission
+of Recipient, a part of the public domain; (b) was in Recipient?s lawful possession without an accompanying secrecy
+obligation prior to the disclosure, as documented in Recipient?s written records; (c) lawfully disclosed to Recipient by a
+third party without an accompanying secrecy obligation or breach of any duty or agreement by the third party or (d) is
+independently developed by Recipient as documented in Recipient?s written records. This Agreement shall not be deemed
+to prohibit disclosure of Confidential Information: (e) required by Applicable Law or subpoena; (f) as required in the course
+of an examination by governmental regulators with jurisdiction over Recipient; or (g) to Recipient?s auditors and counsel,
+provided that such advisors are obligated to maintain the confidentiality of the Confidential Information they receive.
+
+SECTION 8: REPRESENTATIONS AND WARRANTIES
+
+8.1 CSU Marks. CSU represents and warrants that during the period of license set forth in this Agreement: (a) CSU
+shall be the sole and exclusive owner of the CSU Marks, or shall have a valid and enforceable license from the owner of the
+CSU Marks to use such Marks as contemplated herein, and CSU has the exclusive authority to license the CSU Marks to
+CANVAS for the Program; (b) CSU?s Marks do not infringe the rights of any third party; (c) the CSU Marks are validly
+and duly registered, filed, approved and certified by the applicable federal and state agencies and authorities; (d) the license
+and use of the CSU Marks pursuant to the Program will not violate or breach any other contracts; and (e) CSU will not enter
+into any other contracts which would limit the license or use of CSU?s Marks hereunder or cause a breach of this Agreement.
+
+8.2 Website Representations and Warranties. Each party represents and warrants that, to each of their actual
+knowledge, any material, product, information, entity name, data or Mark provided or made available by a party or any
+material presented by a party on the CANVAS Website or CSU Website, as applicable: (a) does not infringe in any manner
+any copyright, patent, trademark, name, trade secret or any other intellectual property right of any third party; (b) does not
+contain any material or information that is obscene, defamatory, libelous or slanderous; (c) does not violate Applicable Law;
+(d) does not violate or breach any duty toward, or rights of any Person, including without limitation, rights of publicity,
+privacy or personality; and (e) has not resulted in any consumer fraud, product liability, tort, breach of contract, injury,
+damage or harm of any kind to any Person.
+
+8.3 Legal Standing and Contract Authority. Each party represents and warrants: (a) that it is a duly incorporated or
+organized legal entity in good standing under the laws and regulations of the state or governmental agency of its
+incorporation or formation; (b) that it has the full power and authority to enter into and perform this Agreement; (c) that
+there is no contract, agreement, judicial or regulatory order, or understanding with any other Person which would interfere
+with the obligations assumed by each party hereunder; and (d) that its performance of the transactions contemplated hereby
+do not contravene, violate or conflict with, or constitute a default under, any provision of Applicable Law. In addition to
+the foregoing, CSU further represents and warrants that it is entering this agreement by its duly appointed and authorized
+representatives possessing full power and authority as a matter of Applicable Law and any provision of their constitutional
+or incorporation documents to fully bind them to the terms of this Agreement.
+
+SECTION 9: INDEMNIFICATION AND LIMITATION OF LIABILITY
+
+9.1 CANVAS. CANVAS shall indemnify, defend, and hold CSU and its Affiliates harmless from and against any and
+all Claims by third parties to the extent arising or resulting from: (a) breach by CANVAS of any agreement, representation
+or warranty of CANVAS contained in this Agreement; (b) CANVAS?s actual or alleged gross negligence or intentional
+misconduct related to its duties or obligations under this Agreement; (c) material violation by CANVAS of any Applicable
+Law or Network Rule; (d) infringement of copyright, trademark, trade secret or other proprietary rights relating to CANVAS
+Marks; (e) breach by CANVAS of its obligations with respect to Confidential Information; (f) the actions or failure to act
+of CANVAS subcontractors related to duties under the Program provided on behalf and at the direction of CANVAS; and
+(g) duties, obligations and liabilities between CANVAS and its subcontractors related to duties such subcontractors are
+performing under the Program on behalf and at the direction of CANVAS.
+
+9.2 CSU. CSU shall be responsible to the fullest extent allowed under Colorado law for its own negligence, and the
+negligence of its employees and authorized volunteers acting within the scope of their actual authority. It is expressly
+understood and agreed that nothing contained in this Agreement shall be construed as an express or implied waiver by the
+CSU of its governmental and sovereign immunities, as an express or implied acceptance by the CSU of liabilities arising as

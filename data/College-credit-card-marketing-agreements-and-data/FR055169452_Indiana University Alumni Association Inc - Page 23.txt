@@ -1,0 +1,51 @@
+List or Accountholder Information or its intended use would create an additional regulatory or compliance
+burden on Bank.
+
+(b) IUAA will not use the Accountholder List (including information from the Accountholder List, or
+Accountholder Information) for any purpose not expressly permitted by Bank (1) in this Agreement or (2)
+in a separate writing prepared by Bank and delivered from time to time to IUAA. IUAA will secure the
+Accountholder List in accordance with the requirements of this Agreement and, Bank?s instructions as
+communicated by Bank to IUAA from time to time. IUAA will only permit access to the Accountholder List
+to those employees of IUAA who need such access to perform their duties relating to this Agreement.
+IUAA will inform such employees of IUAA?s duties and limitations under this Agreement, and enforce
+compliance therewith.
+
+(c) Any Accountholder List furnished to IUAA may contain dummy information (e.g., names, account
+information, addresses, etc., unknown to IUAA.) for the purpose of detecting unauthorized use of an
+Accountholder List.
+
+(d) IUAA agrees Bank will be entitled to injunctive relief to prevent violation or further violation by
+IUAA and/or its Members, employees, volunteers, agents, or representatives of this Section. Nothing in
+this Agreement will be construed as prohibiting Bank from pursuing any other remedy on account of such
+violation or further violation (including threatened violation).
+
+(e) IUAA will destroy and purge from all its systems each Accountholder List, in the same form as
+received by IUAA within thirty (30) days of receipt of such Accountholder List. On or before the effective
+date of termination of the Agreement, IUAA agrees that it will: (i) immediately destroy and purge from all
+its systems all Accountholder Lists and Accountholder Information; and (ii) destroy within thirty (30) days
+all Accountholder Lists and Accountholder Information that is in tangible form, including any and all full
+or partial copies, or reproductions thereof in any medium whatsoever. IUAA will perform all destruction
+of Accountholder Lists and Accountholder Information in accordance with Bank's then current destruction
+policy and shall promptly certify its compliance with these guidelines upon Bank?s request. The provisions
+of this Subsection 13(e) shall survive the expiration or earlier termination of this Agreement.
+
+(f) IUAA will notify Bank in writing within twenty-four (24) hours in the event of a breach of security
+or commercially reasonable suspicion of a breach that could include the Accountholder List or
+Accountholder Information. IUAA will cooperate fully with Bank to investigate, resolve and control
+security incidents. IUAA will reimburse Bank for its cost of producing and mailing any notice required by
+law or regulation that informs the Accountholders of a security breach. IUAA will monitor industry-
+standard information channels (e.g., bugtraq, CERT, OEMs) for newly identified system vulnerabilities and
+fix or patch any identified security problem in an adequate and timely manner. Unless otherwise
+expressly agreed in writing, ?timely? will mean that IUAA will introduce such fix or patch as soon as
+commercially reasonable after IUAA becomes aware of the security problem. This obligation extends to
+all devices that comprise IUAA?s system that receives, transmits, or stores the Accountholder List or
+Accountholder Information, e.g., application software, databases, servers, firewalls, routers and switches
+and hubs.
+
+(g) Bank will be entitled to injunctive relief to prevent violation or further violation of this Section by
+IUAA (or its Subcontractors and their respective Representatives and Agents) including their respective
+Members, employees, volunteers, agents, or representatives. Nothing in this Section will be construed as
+prohibiting Bank from pursuing any other remedy on account of such breach or threatened breach of this
+Subsection. The limitation set forth in Section 12(s) shall not apply to this Subsection.
+
+-23-

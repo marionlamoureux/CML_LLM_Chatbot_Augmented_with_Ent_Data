@@ -1,0 +1,55 @@
+Contract Inquiry No. CAL P17-01
+
+PENNSYLVANIA STATE SYSTEM OF HIGHER EDUCATION
+PASSHE-BB-3.1
+REV: JULY 2017
+
+j. COUNTERPARTS: This Contract may be signed in counterparts, each of which shall be
+an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+
+40. CONTRACTOR CONFIDENTIAL INFORMATION. University agrees, acknowledges,
+and recognizes that Contractor is a highly regulated financial institution under a strict duty of
+confidentiality with regard to its operations and its member records, specifically any "Confidential
+Information". Confidential Information shall specifically include, but not be limited to, the following: all
+non-public member data; account or personal information; such as account numbers, access codes,
+account ownership and names of account owners; account owner email addresses; demographic
+information; and financial transactions conducted within those accounts; any employee information that
+would typically be considered of a confidential nature; inventory lists; competitively or business
+sensitive material that is not generally known to the public; scientific or technical information, including
+hardware information, system descriptions and recovery point information and recovery time objectives;
+computer hardware, software or other technical design or information, including processing parameters
+and procedures; and relationships with customers or vendors of Contractor, the products of any of them,
+and any performance results of any of them.
+
+University will not sell, transfer or share with any third parties any Confidential Information which it
+receives during the ordinary course of conducting business with Contractor or otherwise, unless it receives
+prior written consent from Contractor following notice given to Contractor by University specifying
+exactly what information is to be shared and with whom it will be shared and the reason permission to
+disclose is being requested. Any Confidential Information received by University, or any Contractor-
+approved recipients, may be used only as is necessary to complete the stated purpose of this Agreement,
+except (1) as permitted pursuant to the exceptions listed in the Gramm-Leach-Bliley Act (15 USC ? 6802)
+and accompany regulations, and (2) as required by applicable law including pursuant to a court order or
+subpoena. Notwithstanding anything in this Agreement to the contrary, the rights and responsibilities
+regarding Confidential Information as herein stated shall survive the termination of this Agreement.
+Furthermore, University agrees and promises to destroy any Confidential Information that it has received
+or obtained from Contractor, including any copies, within a reasonable time following its receipt of written
+notice from Contractor to destroy such Information, including any medium upon which or within which
+that Information resides. Unless otherwise specifically agreed by University and Contractor in a writing
+made a part of this Agreement between them, University agrees to perform destruction not later than the
+date of termination of this Agreement. University also agrees to provide Contractor with written assurance
+of such destruction upon the written request of Contractor. Acceptable means of destruction include fine
+shredding of any paper copies, complete incineration of any applicable software or compact discs or
+DVDs, and the complete deletion of all applicable electronic copies and backups so that no Confidential
+Information is readable or reproducible in any format.
+
+Notwithstanding anything in this Agreement to the contrary, the rights and responsibilities regarding
+Confidential Information as herein stated shall be ongoing and shall survive any expiration or
+termination of this Agreement.
+
+CONTRACTOR NOTICE OF SECURITY BREACH. Notwithstanding anything in this Agreement
+to the contrary, University agrees to fully disclose any breach in its security resulting in or from any
+unauthorized intrusions, or any loss or theft of information or information storage, that may pertain to
+any information of Contractor or its members. University agrees to report the date, time, and manner of
+any such breach, the effect of the breach on Contractor, and any specific corrective action University
+
+Page 30 of 32

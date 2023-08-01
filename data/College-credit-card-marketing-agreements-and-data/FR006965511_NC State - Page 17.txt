@@ -1,0 +1,44 @@
+ATTACHMENT ?A?
+REWARDS CARD
+
+Qualified Members of Association will be issued a Rewards Card with one or more Association
+Licensed Trademarks included on the face of the cards, as approved by MasterCard International
+Incorporated, as appropriate.
+
+Subject to the terms of the Cardholder Agreement, Commerce shall make available a card with an
+interest rate to be determined at time of credit underwriting based on statistically valid determinants
+of credit risk derived during the credit underwriting process. The precise terms and conditions of the
+Cardholder Agreement will be consistent with rates and terms offered on other Commerce co-branded
+and affinity credit card products.
+
+. All credit decisions, including but not limited to the initial approval of accounts, the establishment of
+credit lines and the closing of accounts, shall be within the exclusive discretion of Commerce.
+
+. As the grantor of credit, Commerce assumes all credit risks and reserves the right to modify pricing
+set forth in paragraph 2, above, consistent with its underwriting criteria, prevailing economic and
+market forces, and the laws and regulations which apply.
+
+. The Cardholder Agreement, which governs the terms of credit extension and which is provided to
+
+Accountholders at the time of issuance of a Rewards Card will reflect the terms provided herein;
+except nothing contained herein shall preclude Commerce from including in such Cardholder
+Agreement its standard contractual terms including, without limitation, those terms relating to
+liability, default, cancellation, governing law, calculation of finance charge, payment application,
+surrender and other terms as appropriate.
+
+Commerce may, in its sole discretion, make available promotional interest rates (?Promotional Rate?)
+on Member Accounts, subject to Commerce?s existing or future system functionality, in select
+Merchant Category Codes (?MCC?) and/or at select organizations affiliated with Association (e.g.
+Athletic Department, University) to correctly process such rates. Commerce is not under any
+obligation to upgrade, now or in the future, its computer systems in order to commence or continue
+the capability to process such promotional interest rates. Association acknowledges that it shall be
+solely responsible for ensuring that it or its third party electronic transaction processors (i.e.
+acquirers) receiving sale transaction data will provide Commerce with an agreed upon unique
+identifier (?Identifier?) to identify those transactions on Member Accounts qualifying for a
+Promotional Rate. The Identifier will designate qualifying transactions originating at select MCC?s or
+affiliated organizations as eligible for the Promotional Rate. Failure of Assocation, its service
+providers or its equipment to provide Commerce with the agreed upon Identifier will relieve
+Commerce of any obligation to include such transactions as eligible for the Promotional Rate or to
+reprocess any transaction if a missing or incorrect Identifier is discovered.
+
+17

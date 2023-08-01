@@ -1,0 +1,54 @@
+security breach arises out of the negligence, gross negligence, willful misconduct, or breach of its obligations
+hereunder, by The Association. The Association will monitor (and will cause its Subcontractors and their
+respective Representatives and Agents to monitor) industry-standard information channels for newly identified
+system vulnerabilities and fix or patch any identified security problem in an adequate and timely
+
+manner. Unless otherwise expressly agreed in writing, ?timely? will mean that The Association will introduce
+(and cause its Subcontractors and their respective Representatives and Agents to introduce) such fix or patch as
+soon as commercially reasonable after The Association (or its Subcontractors and their respective
+Representatives and Agents) becomes aware of the security problem). This obligation extends to all devices that
+comprise The Association?s system (or that of its Subcontractors and their respective Representatives and
+Agents), including application software, databases, servers, firewalls, routers and switches, hubs and to all of
+The Association?s other Information handling practices.
+
+(f) The provisions of this Section 7 shall survive the expiration or earlier termination of this Agreement.
+
+8. TERM OF AGREEMENT
+
+(a) The initial term of this Agreement shall begin on the Effective Date and unless sooner terminated in
+accordance with this Agreement or by further agreement of the Parties, end on April 30, 2026 (?Initial Term?).
+
+(b) This Agreement shall automatically extend at the end of the Initial Term or any renewal term for
+successive two-year periods, unless sooner terminated in accordance with this Agreement or by further
+agreement of the Parties (each a ?Renewal Term?; and together with the Initial Term, the ?Term?), unless either
+Party gives written notice of its intention not to renew at least 90 and not more than 270 days, prior to the end
+of the then current Term.
+
+9. STATE LAW GOVERNING AGREEMENT
+
+This Agreement and all rights and obligations hereunder, including matters of construction, validity and
+performance, shall be governed by, and construed and enforced in accordance with, the internal Laws of the
+State of Delaware (including statute of limitations) applicable to contracts entered into and performed entirely
+within the State of Delaware, without giving effect to any choice of law or conflict of laws rules or provisions
+(whether of the State of Delaware or any other jurisdiction) that would cause the application of the Laws of any
+jurisdiction other than the State of Delaware. The United Nations Convention on Contracts for the International
+Sale of Goods is expressly disclaimed and excluded. Venue for any breach or cause of action arising from this
+agreement shall be in Brazos County, Texas.
+
+10. GROUP MARKETING
+
+(a) With Bank?s prior written consent, The Association may conduct solicitation efforts for credit card
+products offered under the Program using Association Marketing Channels; provided The Association pays for all
+marketing and solicitation expenses associated with such efforts other than the specimen marketing materials, if
+any, provided by Bank as described below; and further provided the Parties mutually agree that such marketing
+shall qualify for treatment pursuant to this Section 10 (?Group Marketing Effort? or ?GIP?). Bank may provide,
+in its sole and unfettered discretion specimen marketing materials for The Association?s use in connection with
+The Association?s Group Marketing Efforts. If Bank makes such specimens available, The Association will only
+use such specimens to prepare all marketing materials used in Group Marketing Efforts. Except for the
+specimen marketing materials, if any, provided by Bank, The Association will be responsible for all expenses with
+regard to any Group Marketing Effort. The Association will seek Bank?s approval at least sixty (60) days prior to
+its desired date to engage in any GIP.
+
+-14-
+
+Execution Copy - Association of Former Students of Texas A&M Second A&R

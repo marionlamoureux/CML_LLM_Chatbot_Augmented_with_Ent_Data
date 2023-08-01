@@ -1,0 +1,52 @@
+12.
+
+avoidance of doubt, in the event either the Deposit Program or Credit Card Program is terminated
+earlier than the Agreement as provided for in this Subsection 11(f), such terminated program remains
+subject to the applicable survival provisions, if any and any other Section that by its terms are meant to
+survive the expiration or earlier termination of this Agreement and the rights and obligations in any
+other provision of this Agreement with respect to the products offered under such program shall be null
+and void, in each case as if the termination of such program was a termination or expiration of the
+Agreement for just that program.
+
+(g) If ordered or requested to do so by any Governmental Authority, Bank may terminate this
+Agreement without further obligation or penalty upon reasonable prior notice to NYU effective as of the
+date specified in such notice or as required by such Governmental Authority.
+
+(h) For the 1 year period immediately following the expiration or earlier termination of this
+Agreement for any reason, NYU agrees that neither NYU nor NYU Affiliate will, by itself or in conjunction
+with others, directly or indirectly, target any offer of a Financial Service Product or a related product to
+persons who were Customers. Notwithstanding the foregoing, NYU may, after the expiration or earlier
+termination of this Agreement, offer persons who were Customers the opportunity to participate in
+another financial service program endorsed by NYU, provided the opportunity is not only made available
+to such persons but rather as a part of a general solicitation to all Members and provided further that
+persons are not directly or indirectly identified as a customer of Bank, or offered any terms or incentives
+that differ from those offered to all Members. The provisions of this Subsection 11(h) shall survive the
+expiration or earlier termination of this Agreement.
+
+(i) On or before the expiration or earlier termination of this Agreement, and with respect to Bank
+to the extent not inconsistent with Applicable Law or instruction from Governmental Authority, each
+Party agrees that it shall (and shall cause their Subcontractors and their respective Representatives to):
+(i) immediately destroy and purge from all its systems all Information, including Nonpublic Personal
+Information; and (ii) destroy within 30 days all such Information that is in tangible form, including any
+and all full or partial copies, or reproductions thereof in any medium whatsoever. Each Party shall have
+the right to retain a copy of the other Party?s Information only to the extent required by Applicable Law
+or Governmental Authority provided that such retention is in accordance with and continues to be
+subject to the terms and conditions herein contained. The provisions of this Subsection 11(i) shall
+survive the expiration or earlier termination of this Agreement.
+
+INSURANCE AND INDEMNIFICATION
+
+(a) Insurance.
+(i) Bank agrees to maintain at their own expense for the full duration of this contract:
+
+1. Commercial General Liability Insurance with a combined bodily injury (including death),
+personal injury, and property damage limit of at least $2,000,000 per occurrence (except as
+otherwise noted), including at least the following coverages: 1) Broad Form Blanket Contractual
+Liability for liability assumed by Company under this Agreement; 2) Broad Form Property
+Damage; 3) Personal Injury Liability; and 4) Products Liability and Completed Operations.
+
+2. Workers? Compensation Insurance as required by applicable law for all employees
+engaged in the Services under this Agreement and Employers? Liability Insurance with a limit of
+at least $500,000 for each occurrence.
+
+-18-

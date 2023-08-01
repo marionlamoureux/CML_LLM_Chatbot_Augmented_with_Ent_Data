@@ -1,0 +1,58 @@
+7.8
+
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+7.7.4.1 cease to promote the Program;
+7.7.4.2 cease to use any Bank Authorized Materials;
+
+7.7.4.3 return or destroy (and in the latter case certify the destruction) of all Bank
+Authorized Materials previously provided to you by Bank.
+
+The provisions of Sections 1.6, 1.7, 1.8, 7, 8, 9, 10.3 and 18 shall survive termination of
+this Agreement.
+
+LIMITATIONS OF LIABILITY
+
+Subject to Section 8.3 and without prejudice to Section 7, the liability of Bank to you for
+any Loss suffered by the you arising out of or in connection with this Agreement and
+caused or contributed to by the Bank (including, without limitation, by breach of contract
+or negligence) shall not in any circumstances exceed, in aggregate, One Hundred Fifty
+Thousand Dollars (US $150,000).
+
+Notwithstanding any other provision of this Agreement, but subject always to Section
+8.3, Bank shall not under any circumstances be liable to you or any other person for:
+
+8.2.1. any Loss which is a loss of profit, data, revenue, use, goodwill, reputation,
+anticipated savings, market or business and/or non-pecuniary in nature (in each
+case whether direct, indirect, special, consequential, or otherwise), in each case
+whatsoever and howsoever caused including, without limitation, by breach of
+contract or negligence; or
+
+8.2.2 any Loss to the extent that it results from any failure or delay by you or any of
+your personnel to perform your obligations under this Agreement.
+
+Notwithstanding any other provision of this Agreement, nothing in this Agreement shall
+exclude or restrict your liability for a breach of Section 6.2.3 (Reverse Engineering) or
+the liability of either Party for Loss resulting from willful default, a breach of Sections
+10.1 to 10.3 (inclusive)(Confidentiality), or fraud or death or personal injury resulting
+from its own negligence, or for any other liability which may not by law be excluded or
+restricted.
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, EACH PARTY DISCLAIMS ALL
+CONDITIONS, TERMS, REPRESENTATIONS (OTHER THAN FRAUDULENT
+REPRESENTATIONS) AND WARRANTIES, WHETHER IMPOSED BY STATUTE OR
+BY OPERATION OF LAW OR OTHERWISE, THAT ARE NOT EXPRESSLY STATED
+HEREIN, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF
+SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Each provision in this Section 8 shall be construed separately and shall continue and
+survive even if for any reason one or other of these provisions is held inapplicable or
+unenforceable in any circumstances.

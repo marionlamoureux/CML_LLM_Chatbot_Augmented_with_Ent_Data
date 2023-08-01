@@ -1,0 +1,51 @@
+6.5
+
+7A
+
+instructions may include, to the extent reasonably practicable, the return or destruction of
+any and all of the Disclosing Party's Confidential Information (including any electronic or
+paper copies, reproductions, extracts or summaries thereat) and certification of compliance
+with this Section 6.4 by an officer; provided, that such return or destruction shall not be
+required for Confidential Information (a) required to be retained pursuant to the Receiving
+Party's disaster recovery plan, or (b) that has been submitted to the Receiving Party's board of
+directors or a Governmental Authority; and provided, further, that the Receiving Party in
+possession of the Disclosing Party's Confidential Information may retain a copy of such
+Confidential Information to the extent required by Applicable Law, which copy shall be
+used solely to comply with such Applicable Law.
+
+Injunctive Relief. Each Receiving Party agrees that any unauthorized use or disclosure of
+Confidential Information of the Disclosing Party may cause immediate and irreparable harm
+to the Disclosing Party for which money damages may not constitute an adequate remedy. In
+that event, the Receiving Party agrees that injunctive relief may be warranted in addition to
+any other remedies the Disclosing Party may have. In addition, the Receiving Party agrees to
+promptly advise the Disclosing Party in writing of any unauthorized misappropriation,
+disclosure or use by any Person of the Confidential Information which may come to its
+attention and to take all steps at its own expense as mutually agreed in writing by the Parties
+hereto to limit, stop or otherwise remedy such misappropriation, disclosure or use.
+
+ARTICLE VII PRIVACY AND DATA SECURITY
+
+Privacy.
+
+(a) Each Party shall comply with the applicable terms and provisions of Title V,
+Subtitle A of the Gramm-Leach-Bliley Act, 15 U.S.C. 6801 et seq., as it may be amended
+from time to time ("GLBA") and the regulations issued thereunder, as the same may be
+amended from time to time ("Regulations"), including the provisions of the GLBA and the
+Regulations regarding the use and re-use, and the disclosure and re-disclosure, of "nonpublic
+personal information" as such term is defined in the GLBA and the Regulations ("Nonpublic
+Personal Information"). Without limiting the foregoing, each Party shall implement and
+maintain appropriate administrative, technical and physical safeguards to ensure and protect
+the security, confidentiality and integrity of all Nonpublic Personal Information received in
+connection with this Agreement against any anticipated or reasonably likely security threats or
+hazards.
+
+(b) To the extent applicable, each Party shall comply with the privacy policy of
+Deserve, as may be amended from time to time by Deserve in its discretion (the "Privacy
+Policy").
+
+(c) Each Party shall not disclose to any Person other than Affiliates without prior
+consent of the other Party or use any Nonpublic Personal Information that it obtains from a
+Customer or the other Party except to carry out the purposes for which the Nonpublic Personal
+Information was disclosed to such Party.
+
+NJIT 5-28-19 Page 24 of 41

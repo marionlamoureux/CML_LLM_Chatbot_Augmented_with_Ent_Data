@@ -1,0 +1,41 @@
+(c) Any Accountholder List furnished to GAA may contain dummy information (e.g., names, account
+information, addresses, etc, unknown to GAA.) for the purpose of detecting unauthorized use of an
+Accountholder List. A violation of this Section is conclusively proven and the relief specified below will be
+deemed owed when Bank establishes the following conditions: (i) that Bank placed dummy information
+on the list (e.g., name(s), account information, address(es), etc.); (ii) that the dummy information
+received any mailings which were sent or generated outside the scope of the permitted use of the
+Accountholder List; and (iii) that identical dummy information was not furnished by Bank or its affiliates
+to any third party.
+
+(d) GAA agrees Bank will be entitled to injunctive relief to prevent violation or further violation by GAA
+and/or its Members, employees, volunteers, agents, or representatives of this Section. Nothing in this
+Agreement will be construed as prohibiting Bank from pursuing any other remedy on account of such
+violation or further violation (including threatened violation).
+
+(e) GAA will return to Bank each Accountholder List, in the same form as received by GAA within thirty (30)
+days of receipt of such Accountholder List. On or before the effective date of termination of the
+Agreement, GAA agrees that it will: (i) immediately destroy and purge from all its systems all
+Accountholder Lists and Accountholder Information; and (ii) return or destroy within thirty (30) days all
+Accountholder Lists and Accountholder Information that is in tangible form, including any and all full or
+partial copies, or reproductions thereof in any medium whatsoever. GAA will perform all destruction of
+Accountholder Lists and Accountholder Information in accordance with Bank's then current destruction
+Policy.
+
+(f) GAA will notify Bank in writing within twenty-four (24) hours in the event of a breach of security or the
+detection of any suspicious activity relating to an information security breach or attempted breach that
+could include the Accountholder List or Accountholder Information. GAA will cooperate fully with Bank
+to investigate, resolve and control security incidents. GAA will reimburse Bank for its cost of producing
+and mailing any notice required by law or regulation that informs the Accountholders of a security
+breach. GAA will monitor industry-standard information channels (bugtraq, CERT, OEMs, etc.) for newly
+identified system vulnerabilities and fix or patch any identified security problem in an adequate and
+timely manner. Unless otherwise expressly agreed in writing, ?timely? will mean that GAA will introduce
+such fix or patch as soon as commercially reasonable after GAA becomes aware of the security problem.
+This obligation extends to all devices that comprise GAA?s system, e?.g., application software, databases,
+servers, firewalls, routers and switches, hubs, etc., and to all of GAA?s other Information handling
+practices.
+
+[Remainder of this page intentionally blank ? signature page follows}
+
+16
+
+Gen Alumni Assoc of UNC Chapel Hill Second A&R Affinity Agreement 2017-04-21

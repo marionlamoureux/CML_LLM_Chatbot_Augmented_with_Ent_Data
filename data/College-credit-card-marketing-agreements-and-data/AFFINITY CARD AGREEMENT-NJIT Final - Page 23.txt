@@ -1,0 +1,53 @@
+6.3
+
+6.4
+
+Card Accountability Responsibility and Disclosure Act of 2009 and/or the New Jersey Open
+Public Records Act.
+
+(c) <A Receiving Party shall use commercially reasonable efforts to: (i) limit
+access to the Disclosing Party's Confidential Information to those employees, authorized
+agents, vendors, consultants, service providers and contractors who have a reasonable need
+to access such Confidential Information in connection with the Credit Cards, the Program or
+other purposes permitted by this Agreement, and (ii) obtain contractual confidentiality
+commitments substantially similar to those set forth in this Section 6.2 from each vendor,
+consultant, service provider or contractor to which the Receiving Party provides access to
+the Disclosing Party's Confidential Information.
+
+(d) Notwithstanding anything else contained in this Agreement, a Party will not
+be obligated to take any action with respect to the collection, use or disclosure of
+information with respect to the Credit Cards or the Program that such Party believes in
+good faith would cause, or is reasonably likely to cause, either Party to violate any
+Applicable Law (including privacy and security laws and the reuse and re-disclosure
+provisions of the GLBA).
+
+Governmental Requests/Applicable Law Requirements.
+
+(a) If a Receiving Party receives a Governmental Request to disclose any
+Confidential Information of the Disclosing Party, excluding requests received by Deserve
+from any regulatory agency with jurisdiction over Deserve or any of its activities, or the
+Receiving Party otherwise concludes based on advice of counsel that disclosure is otherwise
+required by Applicable Law, then the Receiving Party shall, to the extent allowed or not
+prohibited by Applicable Law: (i) notify the Disclosing Party thereof promptly after receipt
+of such request; (ii) consult with the Disclosing Party on the advisability of the Disclosing
+Party taking steps to resist or vary such request at its own expense; and (iii) if disclosure is
+required or deemed advisable, cooperate with the Disclosing Party in any attempt by the
+Disclosing Party at its own expense to obtain a protective order or other reliable assurance
+that confidential treatment will be accorded to the Confidential Information of the Disclosing
+Party.
+
+(b) Each Party agrees, prior to disclosing Confidential Information of the other
+Party with any Governmental Authority, to consult with the other Party with respect to
+redacting, to the maximum extent practical and consistent with Applicable Law.
+Notwithstanding the foregoing, the provisions of this Section 6.3 shall not apply to
+disclosures made by Deserve to any regulatory agency, except in the event that a regulatory
+agency notifies Deserve that such agency is initiating a material inquiry specifically
+regarding the Credit Cards or the Program itself, and disclosure to NJIT of such
+notification and related communications by Deserve to such agency is not prohibited by
+Applicable Law.
+
+Disposition of Confidential information. The Receiving Party shall comply with the
+Disclosing Party's reasonable instructions regarding the disposition of the Disclosing Party's
+Confidential Information after the effective date of termination of this Agreement. Such
+
+NJIT 5-28-19 Page 23 of 41

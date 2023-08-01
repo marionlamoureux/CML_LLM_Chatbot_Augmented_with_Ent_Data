@@ -1,0 +1,36 @@
+and Accountholder Information; and (ii) return or destroy within thirty (30) days all Accountholder Lists
+and Accountholder Information that is in tangible form, including any and all full or partial copies, or
+reproductions thereof in any medium whatsoever. ESAUT will perform all destruction of Accountholder
+Lists and Accountholder Information in accordance with Bank's then current destruction policy; provided
+that Bank has previously provided such policy to ESAUT in writing.
+
+(f) ESAUT will notify Bank in writing within one (1) business day of learning of a breach of security or
+the detection of any suspicious activity relating to an information security breach or attempted breach
+that could include the Accountholder List or Accountholder Information. ESAUT will cooperate fully with
+Bank to investigate, resolve and control security incidents. ESAUT will reimburse Bank for its reasonable
+cost of producing and mailing any notice required by law or regulation that informs the Accountholders
+of a security breach. ESAUT will monitor industry-standard information channels (bugtragq, CERT, OEMs,
+etc.) for newly identified system vulnerabilities and fix or patch any identified security problem in an
+adequate and timely manner. Unless otherwise expressly agreed in writing, ?timely? will mean that
+ESAUT will introduce such fix or patch as soon as commercially reasonable after ESAUT becomes aware of
+the security problem. This obligation extends to all devices that comprise ESAUT?s system, e.g.,
+application software, databases, servers, firewalls, routers and switches, hubs, etc., and to all of ESAUT?s
+other Information handling practices.
+
+(g) Because the nature of Information regarding Cardholders and Credit Card Accounts makes an
+evaluation of damages after a violation of this Agreement impossible, then if ESAUT or its subcontractors
+and its and their respective Representatives and Agents including any of its or their respective officers,
+directors/members, employees, volunteers, agents, and/or representatives uses such information in a
+manner that violates this Agreement, Bank will be entitled to, in addition to damages, injunctive relief to
+prevent violation or further violation of this Section by ESAUT (or its subcontractors and its and their
+respective Representatives and Agents) including their respective Members, employees, volunteers,
+agents, or representatives. Nothing in this Section will be construed as prohibiting Bank from pursuing
+any other remedy on account of such breach or threatened breach.
+
+(h) The provisions of this Section 13 except for Subsection (a) will survive the expiration or earlier
+
+termination of this Agreement.
+
+[Remainder of this page intentionally blank ? signature page follows]
+
+18

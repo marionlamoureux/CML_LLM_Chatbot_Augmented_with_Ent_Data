@@ -1,0 +1,44 @@
+(f) Return or Destruction of Accountholder List. Fordham will return to Bank each Accountholder List, in the
+same form as received by Fordham within thirty (30) days of receipt of such Accountholder List. On or
+before the effective date of termination of the Agreement, Fordham agrees that it will: (i) promptly
+destroy and purge from all its systems all Accountholder Lists and Accountholder Information; and (ii)
+return or destroy within thirty (30) days all Accountholder Lists and Accountholder Information that is in
+tangible form, including any and all full or partial copies, or reproductions thereof in any medium
+whatsoever. Fordham shall perform all destruction of Accountholder Lists and Accountholder
+Information in accordance with Bank's then current destruction policy.
+
+(g) Notification and Treatment of Security Breach. Fordham will: (i) notify Bank in writing within one
+business day; and (ii) promptly call the Bank of America Incident Response Team at (800)207-2377,
+Option 1 and identify themselves as a supplier when reporting the incident, in the event of a breach of
+security or the detection of any suspicious activity relating to an information security breach or
+attempted breach that could include the Accountholder List or Accountholder Information whether in
+Fordham?s possession or in the possession of an Affiliate employee, volunteer, agent, and/or
+Representative. Fordham will cooperate fully with Bank to investigate, resolve and control security
+incidents. Fordham will monitor industry-standard information channels for newly identified system
+vulnerabilities and fix or patch any identified security problem in an adequate and timely manner.
+Unless otherwise expressly agreed in writing, ?timely? will mean that Fordham will introduce such fix or
+patch as soon as commercially reasonable after Fordham become aware of the security problem. This
+obligation extends to all devices that comprise Fordham?s systems, e.g., application software, databases,
+servers, firewalls, routers and switches, hubs, etc., and to all of Fordham?s other Information handling
+practices,
+
+(h
+
+Security of Accountholder Information. Fordham has and will maintain throughout the term of this
+Agreement and for such time period after the termination of this Agreement as Fordham possesses,
+controls or has access to Accountholder Information, an information security program that is designed
+to: (i) protect the security, integrity and confidentiality of the Accountholder Information; (ii) protect
+against any anticipated threats or hazards to the security or integrity of Accountholder Information; (iii)
+protect against unauthorized access to or use of Accountholder Information that could result in
+substantial harm or inconvenience to a Customer; and (iv) provide for the proper return of
+Accountholder Information to Bank and/or the proper disposal of Accountholder Information. Fordham
+represents and warrants that it is PCI-DSS compliant and will remain PCI-DSS compliant for as long as
+Fordham retains an Accountholder List or Accountholder Information.
+
+(i) This Section 13 shall survive the expiration or earlier termination of this Agreement.
+
+[Remainder of this page intentionally blank ? signature page follows]
+
+20
+FORDHAM UNIVERSITY SECOND A&R AFFINITY AGREEMENT (EXECUTION COPY)
+

@@ -1,0 +1,77 @@
+It.
+
+12.
+
+13.
+
+14,
+
+15.
+
+within thirty (30) days? of written notice thereof (or such longer period if mutually agreed upon by
+the Parties), either Party shall have the right, but not the obligation, to terminate this Agreement at
+the end of the then-current Athletic Year and shall be relieved of any further obligations to the other
+Party, except for obligations which by their nature shall survive termination of this Agreement.
+
+c. Termination for Breach: In addition to all rights and remedies available under the law and this Agreement, each
+Party shall have the right but not the obligation, to terminate the Agreement if the other Party breaches any
+provision of this Agreement and such breach is not cured within thirty (30) days of written notice of such
+breach.
+
+Confidential Information. Provider agrees, acknowledges, and recognizes that PSECU is a highly regulated financial
+institution under a? strict duty of confidentiality with regard to its operations and its member records, specifically any
+?Confidential Information?. Confidential Information shall specifically include, but not be limited to, the following: all non-
+public member data; account or personal information; such as account numbers, access codes, account ownership and names
+of account owners; account owner email addresses; demographic information; and financial transactions conducted within
+those accounts; any employee information that would typically be considered of a confidential nature; inventory lists;
+competitively or business sensitive material that is not generally known to the public; scientific or technical information,
+including hardware information, system descriptions and recovery point information and recovery time objectives; computer
+hardware, software or other technical design or information, including processing parameters and procedures; and
+relationships with customers or vendors of PSECU, the products of any of them, and any performance results of any of them.
+Provider will not sell, transfer or share with any third parties any Confidential Information which it receives during the ordinary
+course of conducting business with PSECU or otherwise, unless it receives prior written consent from PSECU following
+notice given to PSECU by Provider specifying exactly what information is to be shared and with whom it will be shared and
+the reason permission to disclose is being requested. Any Confidential Information received by Provider, or any PSECU-
+approved recipients, may be used only as is necessary to complete the stated purpose of this Agreement, except (1) as permitted
+pursuant to the exceptions listed in the Gramm-Leach-Bliley Act (15 USC ? 6802) and accompanying regulations, arid (2) as
+required by applicable law including pursuant to a court order or subpoena. Furthermore, Provider agrees and promises to
+destroy any Confidential Information that it has received or obtained from PSECU, including any copies, within a reasonable
+time following its receipt of written notice from PSECU to destroy such Confidential Information, including any medium
+upon which or within which that Information resides. Unless otherwise specifically agreed by Provider and PSECU ina writing
+made a part of this Agreement between then, Provider agrees to perform destruction not later than the date of termination of
+this Agreement. Provider also agrees to provide PSECU with written assurance of such destruction upon the written request
+of PSECU. Acceptable means of destruction include fine shredding of any paper copies, complete incineration of any
+applicable software or compact discs or DVDs, and the complete deletion of all applicable electronic copies and backups so
+that no Confidential Information is readable or reproducible in any format. Notwithstanding anything in the foregoing to the
+contrary, PSECU acknowledges that it is difficult to ensure that electronically-stored information is fully and finally destroyed,
+so Provider shall only be required to exercise commercially reasonable efforts to destroy electronically-stored information.
+
+Notwithstanding anything in this Agreement to the contrary, the rights and responsibilities regarding Confidential Information
+as herein stated shall be ongoing and shall survive any expiration or termination of this Agreement for a period of one (i)
+year. Notwithstanding the foregoing, to the extent Provider is in possession of any Sponsor member data, Provider's
+obligations with respect to such Sponsor member data shall survive termination of this Agreement indefinitely.
+
+Notice of Security Breach. Notwithstanding anything in this Agreement to the contrary, Provider agrees to fully disclose any
+breach in its security resulting in or from any unauthorized intrusions, or any loss or theft of information or information
+storage, that may pertain to any information of PSECU or its members. Provider agrees to report the date, time, and manner
+of any such breach, the effect of the breach on PSECU, and any specific corrective action Provider will be taking in response
+to the intrusion, loss or theft directly to PSECU within 24 hours of recognition of said breach, loss or theft of information or
+information storage.
+
+Non-Discrimination. Supplier, Provider and any subcontractor shall abide by the requirements of 41 CFR 60- 1.4(a), 60-
+300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as
+protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color,
+religion, sex, or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take
+affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, national
+origin, protected veteran status or disability.
+
+Trademarks and Publicity. Neither Party may refer to the other Party in advertising nor use the other Party's logos, trademarks,
+or service marks without the prior written consent of the other Party. Each Party acknowledges that the other Party's logos,
+trademarks, and service marks are the sole property of the other Party.
+
+Compliance with Regulations and Standards. It is expressly understood that the Parties to the Agreement and any sub-
+contractors of either Party will comply with all applicable rules and regulations of any governmental, regulatory and
+accreditation authorities. Provider agrees to promptly report to PSECU, as described in the Notices section of this document,
+
+3
+

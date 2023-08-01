@@ -1,0 +1,62 @@
+022/033
+
+03/02/2016 17:08 FAX an U-M_OGC @
+
+(f)
+
+(2)
+
+(h)
+
+that violates this Section, Bank will be entitled to damages from
+AAUM of twenty dollars ($20,00) for each use of each category of information (?.g., names,
+addresses, efc.) used in violation of this Section, with the amount of damages not to exceed one
+($150,000) per breach. In addition, Bank will be entitled to
+injunctive relief to prevent violation or further violation by AAUM and its Members, employees,
+volunteers, agents, or representatives of this Section, Nothing in this Section will be construed as
+Prohibiting Bank from pureuing any other remedy on account of such breach or threatened
+reach. .
+
+tructy A thol ist. AAUM will return to Bank each Accountholder
+List, in the same form as received by AAUM within thirty (30) days of receipt of such
+Accountholder List, On or before the effective date of termination of the Agreement, AAUM
+agrees that it will: (i) immediately destroy and purge from all its systems all Accountholder Lists
+and Accountholder Informatign; and (ii) retum or destroy within thirty (30) days all
+Accountholder Lists and Accountholder Information that is in tangible form, including any and
+all fuil or partial copies, or regroductions thereof'in any medium whatsoever. AAUM shall
+perform all destruction of Accountholder Lists and Accountholder Information in acoordance
+with Bank's then current desiruction policy,
+
+j i . AAUM will: (i) notify Bank in writing within
+twenty-four hours; and ral re wotly call the Bank of America Incident Response Team at
+(800)207-2377, Option 1 and tify themselves as a supplier when reporting the incident; in
+the event of'a breach of security or the detection of any suspicious activity relating to an
+information security breach or|attempted breach that could include the Accountholder List or
+Accountholder Information whether in AAUM?s possession or in the possession of an affiliate
+employee, volunteer, agent, re representative. AAUM will cooperate fully with Bank to
+
+investigate, resolve and contro! security incidents. AAUM will reimburse Bank for its cost of
+producing and mailing any notice required by law or regulation that informs the Customer of a
+security breach and will pay for any credit monitoring service or other remedy that is provided to
+affected Customers. AAUM will monitor industry-standard information channels for newly
+identified system valporabuinet and fix or patch any identified security problem in an adequate
+and timely manner. Unless ise expressly agreed In writing, ?timely? will mean that
+AAUM will introduce such fix or patch as soon as commercially reasonable after AAUM
+becomes aware of the security problem. This obligation extends to all devices that comprise
+AAUM's system, e.g., application software, databases, servers, firewalls, routers and switches,
+hubs, ?tc., and to all of AAUM!'s other Information handling practices.
+
+of A ation. AAUM has and will maintain throughout the term of this
+Agreement and for such time period after the termination of this Agreement as AAUM
+possesses, controls or has acces$ to Accountholder Information, an information security program
+that is designed to: (i) ensure the security, integrity and confidentiality of the Accountholder
+Information; (i!) protect againstlany anticipated threats or hazards to the security or integrity of
+Accountholder Information; (iii) protect against unauthorized access to or use of Accountholder
+Information that could result in substantial harm or inconvenience to a Customer; and (iv) ensure
+the proper return of Accountholier Information to Bank and/or the proper disposal of
+Accountholder Information. AAUM represents and warrants that it is PCI-DSS compliant and
+will remain PCI-DSS compliant|for as long as AAUM retains an Accountholder List or
+Accountholder Information.
+
+Page 21 of 31
+CONFIDENTIAL

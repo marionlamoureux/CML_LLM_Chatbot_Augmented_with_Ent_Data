@@ -1,0 +1,32 @@
+cooperate fully with Bank to investigate, resolve and control security incidents. UICA will reimburse Bank
+for its cost of producing and mailing any notice required by law or regulation that informs the
+Accountholders of a security breach. UICA will monitor industry-standard information channels
+
+(bugtraq, CERT, OEMs, etc.) for newly identified system vulnerabilities and fix or patch any identified
+security problem in an adequate and timely manner. Unless otherwise expressly agreed in writing,
+?timely? will mean that UICA will introduce such fix or patch as soon as commercially reasonable after
+UICA becomes aware of the security problem. This obligation extends to all devices that comprise UICA?s
+system, e.g., application software, databases, servers, firewalls, routers and switches, hubs, etc., and to
+all of UICA?s other Information handling practices.
+
+(g) Because the nature of Information regarding Cardholders and Credit Card Accounts makes an
+evaluation of damages after a violation of this Agreement impossible, then if UICA or its Subcontractors
+arid their respective Representatives and Agents including any of their respective officers,
+directors/members, employees, volunteers, agents, and/or representatives uses such information ina
+manner that violates this Agreement or a breach of secured limited access occurs, Bank will be entitled
+to damages from UICA of twenty dollars ($20.00) for each instance in each category of information (e.g.,
+names, addresses, etc.) used or accessed in violation of this Section. In addition, Bank will be entitled to
+injunctive relief to prevent violation or further violation of this Section by UICA (or its Subcontractors
+and their respective Representatives and Agents) including their respective Members, employees,
+volunteers, agents, or representatives. Nothing in this Section will be construed as prohibiting Bank from
+pursuing any other remedy on account of such breach or threatened breach of this Subsection. The
+limitation set forth in Section 12(s) shall not apply to this Subsection.
+
+(h) The provisions of this Section 13 except for Subsection (a) shall survive the expiration or earlier
+termination of this Agreement.
+
+[Remainder of this page intentionally blank ? signature page follows]
+
+-26-
+
+FINAL- STATE UNIVERSITY OF IOWA ALUM ASSOC THIRD AR AFFINITY AGRMT (EXE.._.DOCK

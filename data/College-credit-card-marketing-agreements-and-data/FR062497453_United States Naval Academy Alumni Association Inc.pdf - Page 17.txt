@@ -1,0 +1,53 @@
+USAA CONTRACT CONTROL NUMBER: 0000007754
+
+Do any Individuals and/or Entities* have a 50% or more direct or indirect ownership interest in the AFFINITY listed above?
+
+Y:C] N: &] (ves, provide the owner information below)
+
+*Entities include but are not limited to, corporations, partnerships, limited liability corporations, trusts, not-for-profit corporations,
+or investment clubs.
+
+OWNER INFORMATION
+
+OWNER 1: [_] Entity L] Individual Percentage of Ownership:
+
+Full Legal Name:
+
+Tax ID of Entity (Do not enter SSN-leave blank):
+
+Physical Address:
+
+Mailing Address (if different):
+
+State of Entity formation (if foreign, country):
+
+Date Entity created, if an Individual, date of birth:
+
+OWNER 2: [_] Entity [_] Individual Percentage of Ownership:
+
+Full Legal Name:
+
+Tax ID of Entity (Do not enter SSN):
+
+Physical Address:
+
+Mailing Address (if different):
+
+State of Entity formation (if foreign, country):
+
+Date Entity created, if an Individual, date of birth:
+
+FOR USAA USE ONLY:
+Persistence:
+Classification Type:
+Open for Ordering:
+Payment Terms:
+[] Net30
+% Days
+xX Other: Pay upon request
+
+Performance Evaluator (if known): Mare Hildebrand Type of Services: Affinity
+
+USAA CONFIDENTIAL
+Page 17 of 17
+

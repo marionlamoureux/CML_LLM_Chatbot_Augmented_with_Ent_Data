@@ -1,0 +1,61 @@
+USAA CONTRACT U -(TROL NUMBER; 1029280
+
+EXHIBIT A
+ELECTRONIC FUNDS TRANSFER
+PROCEDURES
+
+For any amounts owed by USAA to CCA under any Addendum, USAA may initiate Entries (hereinafter
+defined) to the CCA?S account specified on the attached EFT Implementation Form (?Account?) in payment of
+obligations owed by USAA to CCA on the terms set forth below. "Entries? mean, an instruction sent by USAA
+to its originating bank to pay or to cause another bank to pay an unconditioned specified amount of money to
+CCA. CCA hereby authorizes USAA to initiate Entries for obligations owing to CCA from time fo time. The
+financial institution specified on the EFT Implementation Form attached hereto is hereby authorized to credit
+and, if USAA notifies CCA in advance and CCA gives its consent, to debit adjustments to such Entries to the
+Account.
+
+Compliance with Rules. CCA and USAA agree to comply with and be bound by the National Automated
+Clearing House Rules in effect from time to time.
+
+CCA?S Account. The Account is the deposit account maintained by CCA and specified in the attached EFT
+Implementation Form. Any changes in the CCA?S deposit account should be communicated to USAA by
+completing a new EFT Implementation Form. Changes should be sent by facsimile to USAA Accounts Payable
+at 866-851-3640 or 866-282-9021.
+
+USAA will normally be able to initiate Entries to the new account within thirty (30) days of receipt of
+notification.
+
+Failure or Delay of Payment. USAA shall not be deemed to default of any applicable contractual relationship
+between the parties giving rise to an obligation of USAA to pay CCA (the ?Business Agreement?) or suffer any
+loss of discount or other penalty by reason of any delay in receipt by CCA?S financial institution, the non-receipt
+by such institution of any Entry initiated by USAA or failure or delay by the funds transfer system. However,
+any such failure, delay, or non-receipt does not extinguish USAA?s obligation to pay CCA under the terms of the
+Business Agreement as soon as practicable after the failure, delay or non-receipt is discovered.
+
+No Default. USAA shall not be deemed to be in default of the Business Agreement if any other means of
+payment (e.g. paper check or wire transfer) shall be made by USAA in accordance with the terms of the Business
+Agreement.
+
+Remittance Information. For each Entry initiated, USAA shall communicate the information related to the
+payment (?Remittance Information?) as specified in the attached EFT Implementation Form. CCA
+acknowledges that its receipt of Remittance Information, if communicated separately from the payment to which
+the Remittance Information relates, will not constitute a warranty by USAA that the funds transfer has been
+initiated or that any resulting payment order will be accepted by CCA?S financial institution on any date
+specified in the Remittance Information.
+
+Timeliness. A payment from USAA to CCA shall be considered timely with respect to any due date determined
+in accordance with the Business Agreement if USAA initiates the Entry no later than such payment due date.
+However, if financial institutions are not open for business on such payment due date, USAA?s payment shall be
+deemed timely if the Entry is initiated on the next day financial institutions are open for business.
+
+Partial Payments. Notwithstanding any statement contained in any Remittance Information to the contrary, the
+completion of any funds transfer hereunder shall not constitute full satisfaction of USAA?s obligations if the
+amount paid is less than that required by the underlying business obligation owed by USAA to CCA.
+
+Security Procedures. Payment instructions and Remittance Information exchanged shall be solely used for the
+purpose intended under the terms of the Business Agreement and shall not be made available for any other
+purposes. Each Party shall employ reasonable security procedures to ensure that payment instructions,
+Remittance Information, notices and other information specified herein that are electronically created,
+communicated, processed, stored, retained or retrieved are authentic, accurate, reliable, complete, and reasonably
+
+USAA CONFIDENTIAL
+Page 12 of 14

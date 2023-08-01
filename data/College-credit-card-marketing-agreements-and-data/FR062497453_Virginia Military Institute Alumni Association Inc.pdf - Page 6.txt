@@ -1,0 +1,58 @@
+USAA CONTRACT CONTROL NUMBER; 0000004379
+
+9.1.7 VMI will perform its obligations with reasonable skill, care, and diligence.
+9.1.8 VMI will perform its obligations in compliance with all applicable statutes and regulations.
+
+9.1.9 VMI will not share, recompile, decompile, disassemble, reverse engineer, or make or
+distribute any other form of; or any derivative work from, any software or hardware contained in the
+website or the services of USAA or its Affiliates.
+
+9,1.10 VMI is not now, nor will the execution, delivery, or performance of and compliance with the
+terms of this Agreement catise VMI to be in violation of: (1) any laws now in effect; (2) the terms of
+any agreement, document or instrument to which VMI is a party or by which it or any of its assets are
+bound, or (3) VMI?s Articles or Certificate of Incorporation or Bylaws.
+
+9.1.11 No consent of any other person and no consent, license, permit, approval or authorization or
+exemption by or registration or declaration with, any tribunal is required in connection with the
+execution, delivery, performance, validity or enforceability of this Agreement.
+
+9.2 USAA Representations and Warranties.
+
+9.2.1 USAA is a reciprocal interinsurance exchange in good standing, organized pursuant to the
+faws of the State of Texas,
+
+9.2.2. USAA has the full right, power and authority to enter into this Agreement and to perform its
+obligations hereunder.
+
+9.2.3. USAA is not currently under any order either from a court or a state regulatory body
+prohibiting it from operating its Services in any state.
+
+9,2.4 USAA is solvent at the time of execution of this Agreement and performance of its
+obligations hereunder shall not cause it to become insolvent.
+
+9.2.5 There are no legal actions threatened or pending against USAA which would materially affect
+performance under this Agreement. USAA will notify VMI of any which develop during the term of
+this Agreement
+
+9.2.6 USAA has all the requisite approvals, right and authority to use and provide the USAA Marks
+as contemplated herein
+
+9.2.7. USAA will perform its services with reasonable skill, care and diligence.
+
+9.2.8 In providing such services, USAA will comply with all applicable statutes, regulations and
+industry codes of conduct and practice as mandated by any Regulatory Authority.
+
+9.2.9 USAA will not share, recompile, decompile, disassemble, reverse engineer, or make or
+distribute any other form of, or any derivative work from, any software or hardware contained in the
+website or the services of USAA or its Affiliates.
+
+ARTICLE 10: DEFENSE, INDEMNIFICATION AND INSURANCE
+
+10.1. Notice. In the event a claim by a third party is made against USAA or VMI or their respective Affiliates,
+officers, directors, members and employees (each an ?Indemnified Party?) directly relating to or arising out of:
+
+10.1.1 acts or omissions by or on behalf or the other Party (the ?Indemnifying Party?)
+pursuant to this Agreement;
+
+USAA CONFIDENTIAL
+Page 6 of 14

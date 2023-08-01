@@ -1,0 +1,51 @@
+7.2
+
+8.1
+
+(d) Each Party shall have a program to detect and respond to any information
+security breach affecting Customer information, including procedures for notifying
+Customers affected by a security breach if and as required by Applicable Law.
+
+Collection, Ownership and Use of Program Consumer Information.
+
+(a) The Parties recognize that the Customers are or may be customers of both
+Parties and, thus, that each Party has certain ownership and use rights in the information
+relating to Customers that are customers of both Parties. The Parties acknowledge that the
+same or similar information may be included in Program Consumer Information and NJIT
+Information and, to the extent that information is both Program Consumer Information and
+NJIT Information: (i) Deserve shall retain its ownership and use rights in such Program
+Consumer Information and (11) NJIT shall retain its ownership and use rights in such NJIT
+Information, subject to the limitations, if any, set forth in this Agreement.
+
+(b) Deserve is the owner of all information that is provided to Deserve by
+potential Customers or Customers, or by third parties in connection with processing each
+Credit Card application, servicing each Account, or otherwise fulfilling its obligations under
+this Agreement, including any transaction information obtained by Deserve in processing
+transactions with Credit Cards or on Accounts. The information described in this Section
+7.2(b), and the information derived therefrom, is referred to as "Program Consumer
+Information."
+
+(c) NJIT is the owner of the information, and the information derived therefrom,
+that NJIT provides to Deserve for the Program or that NJIT collects outside of the Program
+pursuant to this Agreement with respect to NJIT Members, including but not limited to the List
+(collectively, the "NJIT Information").
+
+ARTICLE VIII TERMINATION
+Term.
+
+(a) Initial Term. This Agreement, unless earlier terminated in accordance with
+its terms shall take effect on the Effective Date and shall remain in full force and effect
+until June 30, 2027 (the "Initial Term").
+
+(b) Renewal Term. Following the Initial Term, this Agreement shall extend for
+successive one-year periods (each such period, a "Renewal Term" and together with the
+Initial Term, the "Term"), upon written agreement of both Parties.
+
+(c) Agreement Termination. Upon termination of this Agreement, the Parties
+shall mutually cooperate to wind down the Program. No new Credit Card form factors will
+be issued by Deserve after the effective date of termination; provided, all Credit Card form
+factors issued by Deserve as of the date of termination of this Agreement will be
+permitted to continue to be used by card members in accordance with the terms of this
+Agreement through and including the next "valid thru" date (i.e., the expiration date)
+
+NJIT 5-28-19 Page 25 of 41

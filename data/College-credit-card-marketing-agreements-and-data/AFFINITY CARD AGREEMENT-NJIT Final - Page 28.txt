@@ -1,0 +1,59 @@
+9.2
+
+9.3
+
+directly):
+
+(i) any material breach by NJIT of any of the terms, covenants, representations, warranties,
+or other provisions contained in this Agreement or any other instrument or document
+delivered by NJIT to Deserve in connection herewith or therewith;
+
+(ii) the failure by NJIT to comply with Applicable Law in connection with its obligations
+under this Agreement;
+
+(iii) the negligent act or omission, or the willful misconduct of NJIT or any of its employees,
+agents, subcontractors, representatives, officers, directors and assigns in connection
+with or relating to the Program; and/or
+
+(iv) the Mark license granted herein or from Deserve's use of the NJIT Marks in reliance
+thereon, or from the use of any List(s) by Deserve for the promotion of the Program, so
+long as such use is in compliance with the terms of this Agreement.
+
+(b) Deserve, its employees, agents, subcontractors and representatives agree to
+protect, indemnify, defend and hold harmless NJIT, its Affiliates, and each of their respective
+shareholders, employees, agents, subcontractors, representatives, officers, directors and
+assigns, from and against any and all Indemnified Losses to the extent such Indemnified
+Losses arise out of are connected with, or result from:
+
+(i) any material breach by Deserve of any of the terms, covenants, representations,
+warranties, or other provisions contained in this Agreement or any other instrument or
+document delivered by Deserve to NJIT in connection herewith or therewith;
+
+(ii) the failure by Deserve to comply with Applicable Law in connection with its obligations
+under this Agreement;
+
+(iii) the negligent act or omission, or the willful misconduct of Deserve or any of its
+employees, agents, subcontractors, representatives, officers, directors and assigns in
+connection with or relating to the Program; and/or
+
+(iv) the Deserve Mark license granted herein or from NJIT's use of the Deserve Marks in
+reliance thereon or from the use of any List(s) by Deserve that does not comport with the
+terms of this Agreement.
+
+Notice. If a Party receives notice of any Claim (a "Claim Notice") for which
+indemnification may be available under this Agreement (the "Indemnified Party"), the
+Indemnified Party must promptly notify the other Party (the "Indemnifying Party") in
+writing of the Claim, including, if possible, the amount or estimate of the amount of
+liability arising from it. The Indemnified Party shall use its commercially reasonable efforts
+to provide notice to the Indemnifying Party no later than fifteen (15) days after receipt by
+the Indemnified Party in the event a suit or action has commenced, or thirty (30) days under
+all other circumstances; provided, that the failure to give such notice shall not relieve an
+Indemnifying Party of its obligation to indemnify except to the extent the Indemnifying
+Party is materially prejudiced by such failure.
+
+Right to Defend Claims; Coordination of Defense.
+
+(a) The Indemnifying Party shall have the right to defend any such Claim at its
+expense and in the name of the Indemnified Party, and shall select the counsel for the
+
+NJIT 5-28-19 Page 28 of 41

@@ -1,0 +1,38 @@
+USAA CONTRACT CONTROL NUMBER; 1029280
+
+EFT Implementation Form
+
+This form is used to designate the CCA?S depository institution information and to identify how payment and
+remittance detail will be provided. Please complete the form (with signature) and fax it to USAA Accounts
+Payable at 866-851-3640 or 866-282-9021.
+
+Payment and remittance detail will be sent to the CCA?S depository institution specified below in one of the
+following NACHA fortnats:
+4
+
+CTX ccD
+CCP
+
+Depository Institution:
+Address;
+
+Account Number:
+
+Account Name;
+
+Transit Routing Number:
+
+Email address: : ee
+(*Email address will be used to notify your organization the date and amount of the deposit and how the
+payment should be applied to USAA?s balance)
+
+Name of
+
+By: GUC, Be Wiphrd Date: base 26, 2010
+
+Signature of Authorized Representative
+
+USAA CONFIDENTIAL
+
+Page 14 of 14
+

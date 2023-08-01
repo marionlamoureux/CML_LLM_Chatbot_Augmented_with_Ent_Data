@@ -1,0 +1,51 @@
+will furnish a certificate of an officer of the receiving party certifying that Confidential Information not
+returned to disclosing party. has been destroyed. Notwithstanding the above, the receiving party may
+retain a copy of the Confidential Information for regulatory reasons.
+
+9.4 The parties agree that the term ?Confidential Information? does not include information
+which: (a) has been or may in the future be published or is now or may in the future be otherwise in the
+public domain through no fault of the receiving party; (b) prior to disclosure pursuant to this Agreement is
+property within the legitimate possession of the receiving party; (c) subsequent to disclosure pursuant to
+this Agreement is lawfully received from a third party having rights in the information without restriction
+of the third party?s right to disseminate the information and without notice of any restriction against its
+further disclosure; (d) is independently developed by the receiving party through parties who have not had
+access to such Confidential Information; or (e) is obligated to be produced under order of a court of
+competent jurisdiction or other similar requirement of a governmental agency.
+
+Part B: Confidential Customer Information
+
+9.5 The parties agree that the term ?Confidential Customer Information? as used herein shall
+mean all nonpublic personal information as that term is used in the Gramm-Leach-Bliley Act (?GLB?),
+(15 U.S.C. ??6801-6809 ) all ?consumer information? as that term is used in the Fair and Accurate Credit
+Transactions Act of 2003 (?FACT Act?) (15 U.S.C. ?1681 et seq.) and any and all privacy regulations,
+guidelines and interpretations thereof adopted pursuant thereto by the appropriate regulatory authorities.
+A ?Commerce Customer? as used herein includes an Accountholder.
+
+9.6 While it is contemplated that Association will neither be furnished nor receive Confidential
+Customer Information, should Association come into possession of any Confidential Customer
+Information, Association agrees that it will not use or disclose such Confidential Customer Information
+that it receives or obtains from Commerce other than is necessary to carry out the purposes of this
+Agreement.
+
+9.7 Association agrees that it will not disclose any Confidential Customer Information to any
+third-party except those who have a need to know and only to enable Association to provide the services
+under this Agreement and only to such third parties who have assumed confidentiality obligations
+consistent with those provided for herein.
+
+9.8 Association agrees that it has in place certain security measures to protect the Confidential
+Customer Information and further agrees that it will implement such additional security measures and use
+such additional care as may be required to continually preserve and protect the Confidential Customer
+Information of Commerce?s Customers throughout the term of the Agreement and for such time beyond
+the term of the Agreement as it has in its possession any Confidential Customer Information of
+Commerce?s Customers.
+
+9.9 Association agrees, as it deems reasonably required, to train its employees and staff regarding
+the need to keep the Confidential Customer Information of Commerce?s Customers from being used or
+disclosed other than for purposes of fulfilling the Agreement and to continually monitor its procedures,
+safeguards and training to protect the Confidential Customer Information.
+
+9.10 Association agrees to notify Commerce immediately upon discovery of any loss,
+unauthorized use or improper disclosure of Confidential Customer Information and to notify Commerce
+of any demand, including any form of legal proceeding or process, made upon it for access to or
+
+10

@@ -1,0 +1,46 @@
+interest resulting from the use by IB or its sublicensees of the Marks or Lists as contemplated by
+this Agreement, and (iii) any negligent act or omission or willful misconduct of Group or its
+directors, officers, employees, agents, venture partners or assigns in connection with the entry
+into or performance of this Agreement.
+
+(d) Except for specific types of damages stated elsewhere in this Agreement, neither
+party will be liable to the other party for damages for lost profits, exemplary, punitive, special,
+incidental, indirect, or consequential damages suffered by the other party, except for damages
+payable by a party owed indemnification under this Section 9 to a person not related to such
+party (collectively, ?Excluded Damages?).
+
+10. Term and Termination.
+
+(a) Subject to the provisions of subparagraphs 10(b), (c) and (d) below, performance
+under this Agreement shall commence as of Effective Date and shall continue until August 5,
+2024 (the ?Initial Term?). Thereafter, this Agreement shall be automatically renewed for
+successive annual periods thereafter (each a ?Renewal Term?) unless (i) either party delivers a
+written notice of termination at least 180 days before the end of the Initial Term or the then-
+current Renewal Term of its intent not to renew the Agreement, or (ii) IB delivers a written
+notice of termination at least 60 days before the end of the Initial Term or the then-current
+Renewal Term of its intent not to renew the Agreement if IB had previously received notice from
+its sublicensee that such sublicensee will terminate its agreement with IB effective at the end of
+such Initial Term or Renewal Term.
+
+(b) If there is a default or breach by either party in the performance of any term or
+condition of this Agreement (including any material misrepresentation by either party of any
+matter set forth in Paragraph 8 herein) and any such default or material misrepresentation in this
+Agreement shall continue for a period of sixty (60) days after receipt of written notice thereof
+(setting forth in detail the nature of such default or misrepresentation), then this Agreement shall
+terminate as of the 61st day following the receipt of such written notice at the option of the non-
+defaulting party. If the non-defaulting party does not elect to terminate this Agreement, the non-
+defaulting party may file suit for injunctive relief to require the defaulting party to comply with
+the terms of this Agreement.
+
+(c) This Agreement shall be deemed immediately terminated, without the
+requirement of further action or notice by either party, in the event that either party shall become
+subject to voluntary or involuntary bankruptcy, insolvency, receivership, conservatorship or like
+proceedings pursuant to applicable state or federal law.
+
+(d) In the event any material change in any federal, state or local law, statute,
+operating rule or regulation, or any material change in any operating rule or regulation of the
+applicable card network or in the terms and conditions of IB?s agreement with its sublicensee
+makes the continued performance of this Agreement under such changed terms and conditions
+unduly financially burdensome or legally prohibited, then IB shall have the right to terminate this
+Agreement upon 30 business days advance written notice. Such written notice shall include a
+detailed explanation as evidence of the burden imposed as a result of such change.

@@ -1,0 +1,48 @@
+mean that ESAUT will introduce (and cause its subcontractors and its and their respective Representatives
+and Agents to introduce) such fix or patch as soon as commercially reasonable after ESAUT (or its
+subcontractors and its and their respective Representatives and Agents) becomes aware of the security
+problem). This obligation extends to all devices that comprise ESAUT?s system (or that of its
+subcontractors and its and their respective Representatives and Agents), including application software,
+databases, servers, firewalls, routers and switches, hubs and to all of ESAUT?s other Information handling
+practices.
+
+(f) Bank and ESAUT each agree that if they or one of their Representatives discloses such Information
+to another person or entity in violation of this Agreement, or uses such Information for a purpose not
+expressly permitted by this Agreement, such act shall be deemed a material breach of this Agreement by
+that Party. The non-breaching Party may, in addition to any other right or remedy available at law or in
+equity and upon ten (10) days prior written notice to the other Party, cease providing the other Party with
+any reports (other than the royalty report described in this Agreement) or other information (other than
+the Marketing List) concerning the Program or the Agreement, whether or not a requirement of the
+Agreement.
+
+(g) If a breach of this Section 7 is due to the unauthorized disclosure of the Marketing List by Bank or
+its Representative (or the use of the Marketing List by Bank or its Representative in a manner not
+permitted by this Agreement), except as otherwise required by Applicable Law, Bank and its Agent shall
+immediately cease and desist from all further uses of the Marketing List and must completely refrain from
+using the Marketing List until (and if) the breach is cured.
+
+(h) The provisions of this Section 7 shall survive the expiration or earlier termination of this
+Agreement.
+
+TERM OF AGREEMENT
+
+(a) The initial term of this Agreement shall begin on the Effective Date and end on June 30, 2026
+(?Initial Term?).
+
+(b) This Agreement shall automatically extend at the end of the Initial Term or any renewal term for
+successive two-year periods (each a ?Renewal Term?; and together with the Initial Term, the ?Term?),
+unless either Party gives written notice of its intention not to renew at least 90 and not more than 180
+days, prior to the end of the then current Term.
+
+STATE LAW GOVERNING AGREEMENT
+
+This Agreement and all rights and obligations hereunder, including matters of construction, validity and
+performance shall be governed by, and construed and enforced in accordance with, the internal Laws of
+the State of Delaware applicable to contracts entered into and performed entirely within the State of
+Delaware, without giving effect to any choice of law or conflict of laws rules or provisions (whether of the
+State of Delaware or any other jurisdiction) that would cause the application of the Laws of any jurisdiction
+other than the State of Delaware and shall be deemed for all purposes to be made and fully performed in
+Delaware. Any claim or dispute arising out of or relating to this Agreement asserted by ESAUT shall be
+tried in a court of competent jurisdiction in New Castle County, Delaware. Any claim or dispute arising out
+of or relating to this Agreement asserted by Bank shall be tried in a court of competent jurisdiction in
+Travis County, Texas.

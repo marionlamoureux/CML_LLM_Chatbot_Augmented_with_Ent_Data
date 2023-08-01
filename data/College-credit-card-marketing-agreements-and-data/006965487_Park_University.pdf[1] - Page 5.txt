@@ -1,0 +1,56 @@
+6.4
+
+6.5
+
+6.3.3 it has the right, power and authority to perform its obligations under, and to enter
+into, this Agreement; and
+
+6.3.4 it shall cooperate with the other Party in the performance of this Agreement at all
+times in good faith.
+
+You shall indemnify, hold harmless, and defend the Bank and the Card Association,
+each of their Affiliates, and their personnel from and against any and all Losses incurred
+by any of them in connection with, or which arise out of, or result from, or are based
+upon:
+
+6.4.1 any grossly negligent or willful acts or omissions by you related to the Accounts
+or to this Agreement;
+
+6.4.2 an irremediable breach by you of this Agreement, or failure to remedy a
+remediable such breach within 30 days of notice from Bank so to do;
+
+6.4.3. any breach of the warranty and agreement you make in Section 5.2 and Section
+6.2.3: or
+
+6.4.4 any use by you, your Affiliates, agents or representatives of any Bank intellectual
+property rights granted by Bank pursuant to Section 5.3 hereof or Bank
+Authorized Materials other than in accordance with the terms and conditions of
+this Agreement.
+
+Bank shall indemnify, hold harmless, and defend you, your Personnel and each of
+your Affiliates, and their Personnel from and against any and all Losses incurred by
+any of them in connection with, or which arise out of, or result from, or are based
+upon:
+
+6.5.1 any negligent or willful acts or omissions by Bank, its Affiliates, agents or
+representatives, relating to the Applications, Accounts, Cards or to this
+Agreement;
+
+6.5.2 an irremediable material breach by Bank of this Agreement, or failure to remedy
+a remediable material breach by Bank within 30 days of written notice from you
+so to do;
+
+6.5.3 any breach of the warranties and agreements Bank makes in Sections 5.3 or.
+6.1;
+
+6.5.4 any violation or alleged violation by Bank, its Affiliates, agents or representatives,
+of any Privacy Rules or any violation or alleged violation by Bank, its Affiliates,
+agents or representatives, of any laws, statutes or regulations relating to the
+Applications, Accounts or Cards; or
+
+6.5.5 any use by Bank, its Affiliates, agents or representatives of any of your
+Intellectual Property Rights other than in accordance with the terms and
+conditions of this Agreement, or any use by Bank, its Affiliates, agents or
+representatives, of any Affinity Group Data submitted by you, other than in
+accordance with the terms and conditions of this Agreement.
+

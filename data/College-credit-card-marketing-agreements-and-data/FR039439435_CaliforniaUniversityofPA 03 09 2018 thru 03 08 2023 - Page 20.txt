@@ -1,0 +1,57 @@
+PENNSYLVANIA STATE SYSTEM OF HIGHER EDUCATION Contract Inquiry No. CAL P17-01
+
+PASSHE-BB-3.{
+REV: JULY 2017
+
+c. In the event of a declared emergency by competent governmental authorities, the
+University by notice to the Contractor may suspend all or a portion of this Contract or a Purchase Order
+issued under this Contract.
+
+26. USE OF CONFIDENTIAL INFORMATION.
+
+a. Covered Data and Information (?CDI?) includes paper and electronic financial
+information, student education records, as well as any other data marked as confidential provided by the
+University or its students to the Contractor to perform the services under this Contract.
+
+b. Disclosure of CDI: Contractor shall not copy, report or release CDI or information
+concerning the University or its students, employees or customers to third parties except when essential
+for authorized use under this Contract and then only with University?s prior written approval and only
+where the third parties sign agreements containing substantially the same provisions as contained in this
+section. Any such report or release of information shall, at a minimum, comply with those requirements
+enumerated in the Gramm-Leach-Bliley Act (15 U.S.C. ?6801 et seq.), the Family and Educational Rights
+and Privacy Act of 1974 (20 U.S.C. ?1232g), and applicable University or Board of Governors policies
+or standards for safeguarding such information, and all other applicable laws regarding consumer privacy
+and confidential information. The Contractor agrees not to use CDI for any purpose other than the purpose
+for which the disclosure was made.
+
+Ci Maintenance of CDI: The Contractor shall develop, implement, maintain, and use
+appropriate administrative, technical, and physical security measures to preserve the confidentiality,
+integrity, and availability of all electronically maintained or transmitted CDI received from or on behalf
+of the University or its students. The Contractor will extend these measures by contract to all
+subcontractors used by the Contractor. At a minimum, the Contractor agrees to guard the confidentiality
+of the University?s confidential information with the same diligence with which it guards its own
+proprietary information.
+
+d. Destruction or Return of CDI: Upon termination, cancellation, expiration or other
+conclusion of this Contract or any license granted hereunder, the Contractor will return to the University
+all copies of CDI in the Contractor?s possession, unless the Contracting Officer consents in writing to the
+preservation of a copy of the CDI for archival purposes. The Contractor shall provide a certificate to the
+University confirming the date of destruction of the CDI.
+
+e. Reporting of Unauthorized Disclosures or Misuse of CDI: The Contractor shall, as soon as
+reasonably practicable and in accordance with all applicable state and federal statutes and regulations,
+report to the University any use or disclosure of CDI not authorized by this Contract. The Contractor?s
+report shall identify: (i) the nature of the unauthorized use or disclosure, (ii) the CDI used or disclosed,
+(iii) the identity of the party who made the unauthorized use or received the unauthorized disclosure, (iv)
+what the Contractor has done or shall do to mitigate any deleterious effect of the unauthorized use or
+disclosure, and (v) what corrective action the Contractor has taken or shall take to prevent future similar
+unauthorized use or disclosure. The Contractor shall provide such other information, including a written
+report, as reasonably requested by the University.
+
+f Remedies: If the University reasonably determines in good faith that the Contractor has
+materially breached any of its obligations under this provision, the University, in its sole discretion, shall
+have the right to require the Contractor to submit to a plan of monitoring and reporting; provide the
+Contractor with a thirty (30) day period to cure the breach; or terminate this Contract immediately if cure
+is not possible. Before exercising any of these options, the University shall provide written notice to the
+
+Page 19 of 32

@@ -1,0 +1,55 @@
+12.
+
+The Agreement is hereby amended by adding the following new Section 13.
+
+13. CUSTOMER LIST
+
+(a) Each calendar quarter during the term of the Agreement (provided that notice of a party?s
+intention to termination the Agreement has not been given), MBNA America shall provide FIUF
+with a list of information (e.g., names and addresses) about Customers as may be mutually agreed
+upon by the parties (hereinafter the "Customer List"). When used in this Agreement, the term
+?Customer List? includes any whole or partial copies or compilations of a Customer List in any
+form or any medium, any information derived solely from a Customer List, and all Customer
+Information, as hereinafter defined. Notwithstanding any provision of the Agreement, MBNA
+America shall not provide any Customer List or Customer Information otherwise required to be
+provided by it to FIUF, and may restrict any use by FIUF of any Customer List or Customer
+Information which is provided by MBNA America to FIUF, if MBNA America is prohibited
+from disclosing the same or permitting such use because of any law, regulation, bankwide privacy
+policy, public privacy pledge, court order, rule, consent decree, or individual present or former
+Customer request, or if the provision of such information or its intended use would create an
+additional regulatory compliance burden on MBNA America.
+
+(b) FIUF shall return to MBNA America each Customer List, in the same form as received
+by FIUF within thirty (30) days of receipt of such Customer List. On or before the effective date
+of termination of the Agreement, FIUF agrees that it shall: (i) immediately destroy and purge
+from all its systems all information within each Customer List to the extent that such information
+in any way relates to MBNA America, the Program or Credit Card Accounts ("Customer
+Information"); and (ii) return or destroy within thirty (30) days all Customer Information that is in
+tangible form, including any and all full or partial copies, or reproductions thereof in any medium
+whatsoever. All destruction of Customer Lists shall be done in strict accordance with MBNA
+America's then current destruction policy.
+
+(c) Any Customer List provided to FIUF may contain ?dummy? information (e.g., names,
+account information, addresses, etc.) so that unauthorized use of a Customer List may be
+determined. This information will be unknown to FIUF. A violation of this Section is
+conclusively proven and the damages named hereinafter shall be deemed owed when MBNA
+America establishes the following:
+
+(i) that MBNA America placed ?dummy? information on the list (e.g., name(s), account
+information, address(es), etc.);
+
+(ii) that the ?dummy? information received any mailings which were sent or generated
+outside the scope of the permitted use of the Customer List; and
+
+(iii) that identical ?dummy? information was not provided by MBNA America or its
+affiliates to any third party.
+
+(d) All Customer Lists are (i) confidential and proprietary and (ii) shall remain the sole
+property of MBNA America. FIUF expressly acknowledges and agrees that FIUF has no
+property right or interest whatsoever in any Customer List. FIUF shall hold all Customer Lists in
+strict and absolute confidence and shall not provide, trade, give away, barter, lend, send, sell or
+otherwise disclose (collectively ?transfer?) any Customer List and shall not make any copies of a
+Customer List of any type whatsoever except as expressly approved in a separate writing by
+MBNA America. At all times FIUF shall keep in confidence and trust all Customer Lists. FIUF
+further agrees that it shall not transfer any Customer List to any other organization or individual
+under any circumstances, and FIUF specifically but not by way of limitation agrees that no

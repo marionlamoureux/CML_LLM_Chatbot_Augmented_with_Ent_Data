@@ -1,0 +1,48 @@
+DocuSign Envelope ID: 8A8D9FE8-4934-4EAE-BEC8-CF1F49EDE4DA
+
+9. Release and Indemnification.
+
+(a) IB shall not be responsible in any way for any misrepresentation, negligent act or
+omission or willful misconduct of KUAA, its affiliates, officers, directors, agents, or employees
+in connection with the entry into, or performance of, any obligation of IB under this Agreement.
+KUAA shall not be responsible in any way for any misrepresentation, negligent act or omission or
+willful misconduct of IB, its affiliates, officers, directors, agents, or employees in connection with
+the entry into, or performance of, any obligation of KUAA under this Agreement.
+
+(b) IB shall indemnify, defend and hold KUAA harmless from and against all claims,
+actions, suits or other proceedings, and any and all losses, judgments, damages, expenses, or other
+costs (including reasonable counsel fees and disbursements), but excluding Excluded Damages,
+arising from or in any way relating to (i) any actual or alleged violation or inaccuracy of any
+representation or warranty of IB contained in Paragraph 8 above, (ii) any act or omission of IB in
+connection with the issuance of Cards and/or the administration of Card Accounts and (iii) any
+negligent act or omission or willful misconduct of IB or its directors, officers, employees, agents
+or assigns in connection with the entry into or performance of this Agreement.
+
+(c) KUAA shall indemnify, defend and hold IB harmless from and against all claims,
+actions, suits or other proceedings, and any and all losses, judgments, damages, expenses or other
+costs (including reasonable counsel fees and disbursements), but excluding Excluded Damages,
+arising from or in any way relating to (i) any actual or alleged violation or inaccuracy of any
+representation or warranty of KUAA contained in Paragraph 8 above, (ii) any actual or alleged
+infringement of any trademark, copyright, trade name or other proprietary ownership interest
+resulting from the use by IB or its sublicensees of the Marks or Lists as contemplated by this
+Agreement, and (iii) any negligent act or omission or willful misconduct of KUAA or its directors,
+officers, employees, agents, venture partners or assigns in connection with the entry into or
+performance of this Agreement.
+
+(d) Except for specific types of damages stated elsewhere in this Agreement, neither
+party will be liable to the other party for damages for lost profits, exemplary, punitive, special,
+incidental, indirect, or consequential damages suffered by the other party, except for damages
+payable by a party owed indemnification under this Section 9 to a person not related to such party
+(collectively, ?Excluded Damages?).
+
+10. Term and Termination.
+
+(a) Subject to the provisions of subparagraphs 10(b), (c) and (d) below, performance
+under this Agreement shall commence as of Effective Date and shall continue until August 5, 2022
+(the ?Initial Term?). Thereafter, this Agreement shall be automatically renewed for successive
+annual periods thereafter (each a ?Renewal Term?) unless either party delivers a written notice of
+termination at least 90 days before the end of the Initial Term or the then-current Renewal Term
+of its intent not to renew the Agreement.
+
+(b) If there is a default or breach by either party in the performance of any term or
+condition of this Agreement (including any material misrepresentation by either party of any

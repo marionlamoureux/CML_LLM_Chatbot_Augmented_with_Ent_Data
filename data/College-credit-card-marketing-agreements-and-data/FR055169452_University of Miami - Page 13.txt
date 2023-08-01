@@ -1,0 +1,55 @@
+DocuSign Envelope ID: BCD5F8F3-B295-4B99-943F-A5C5C15F622D
+
+disclosed by the Recipient to any other Person, except as expressly permitted under this Agreement or
+as mutually agreed in writing.
+
+(b) A Recipient shall be permitted to disclose such Information (i) to its accountants, lawyers,
+financial advisors, marketing advisors, affiliates and employees (collectively, its ?Agents?) as necessary
+for the performance of their respective duties, provided that such Agents agree to treat the Information
+as confidential and such Agent is subject to enforceable confidentiality provisions at least as restrictive
+in this Agreement, or (ii) as required by Applicable Law or requested by any Governmental Authority
+(including UM?s compliance with 12 C.F.R. ?1026.57(b)). Notwithstanding the foregoing, the Recipient
+shall be liable for any breach of the Section by its Agents.
+
+(c) UM shall keep and shall cause its Subcontractors and their respective Representatives to keep)
+all Information (including Nonpublic Personal Information) confidential and shall not make any copies of
+any kind or transfer, provide, trade, give away, barter, lend, send, sell, or otherwise disclose (collectively
+?transfer?) (and shall cause its Subcontractors and their respective Representatives not to make or
+transfer) any such information to any other entity or individual for any reason, except as required by this
+Agreement or for uses agreed to in writing by Bank prior to any such transfer. For the avoidance of
+doubt, UM shall be liable for any breach of this Section by its Subcontractors and their respective
+Representatives. If UM receives a request or demand to disclose Information (including Nonpublic
+Personal Information) pursuant to a subpoena, order of court of competent jurisdiction or by judicial or
+administrative agency or legislative body or committee, UM will: (i) immediately notify Bank of the
+existence, terms, and circumstances surrounding such request; (ii) consult with Bank on the advisability
+of taking legally available steps to resist or narrow such request; and (iii) if disclosure of such
+information is required or deemed advisable, exercise its best efforts to obtain an order or other reliable
+assurance that confidential treatment will be accorded to such portion of such information to be
+disclosed that Bank designates.
+
+(d) During the Term and thereafter until UM and its Subcontractors and their respective
+Representatives and Agents no longer have in their possession or control Bank?s Information UM will
+have, maintain and continually assess (and cause its Subcontractors and their respective
+Representatives and Agents to have, maintain and continually assess) an information security program
+that is designed to: (i) ensure the security, integrity and confidentiality of Information (including use of a
+change control process to ensure that access to its systems (and those of its Subcontractors and their
+respective Representatives and Agents) and Information is controlled and recorded); (ii) protect against
+any anticipated threats or hazards to the security or integrity of Information which includes the use of
+up-to-date commercially available virus and malicious code detection and protection products; (iii)
+protect against unauthorized access to or use of Information that could result in substantial harm or
+inconvenience to a Customer or applicant in respect of the Program; and (iv) ensure the proper return of
+Information to Bank and/or the proper disposal of Information.
+
+(e) During the Term and thereafter until UM and its Subcontractors and their respective
+Representatives and Agents no longer have in their possession or control Bank?s Information UM will
+(and cause its Subcontractors and their respective Representatives and Agents to): (i) notify Bank in
+writing within twenty four hours; and (ii) promptly call the Bank of America Incident Response Team at
+(800) 207-2322, Option 1 (or such other toll-free number provided by Bank from time to time) in the
+event of a breach of security or the detection of any suspicious activity relating to an information
+security breach or attempted breach that could include Information, whether in UM?s possession or in
+the possession of an affiliate, employee, volunteer, agent, and/or Representative. UM will cooperate
+fully (and cause its Subcontractors and their respective Representatives and Agents to cooperate fully)
+
+?Ad.
+
+EXECUTION Copy- UNIVERSITY OF MIAMI AFFINITY AGREEMENT

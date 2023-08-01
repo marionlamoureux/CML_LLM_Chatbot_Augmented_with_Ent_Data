@@ -1,0 +1,51 @@
+10.
+
+or inconvenience to a Member or applicant in respect of the Program; and (iv) ensure the proper return
+or disposal of confidential information, including Information.
+
+(e) During the Term and thereafter until NYU and its Subcontractors and their respective
+Representatives and Agents no longer have in their possession or control Bank?s Information NYU will
+(and require their Subcontractors and their respective Representatives and Agents to): (i) notify Bank in
+writing within twenty four hours; and (ii) promptly call the Bank of America Incident Response Team at
+(800) 207-2322, Option 1 (or such other toll-free number provided by Bank from time to time) in the
+event of a breach of security or the detection of any suspicious activity relating to an information
+security breach or attempted breach that could include Information, whether in NYU?s possession or in
+the possession of an affiliate, employee, volunteer, agent, and/or Representative. NYU will cooperate
+fully (and require its Subcontractors and their respective Representatives and Agents to cooperate fully)
+with Bank to investigate, resolve and control security incidents. NYU will reimburse Bank for its cost of
+producing and mailing any notice required by Applicable Law that informs the Customer of a security
+breach and will pay for any credit monitoring service or other remedy that is provided to affected
+Customers. As of the Effective Date, and throughout the Term, NYU represents and warrants that it
+monitors industry standard information channels for newly identified system vulnerabilities and fixes or
+patches any identified security problem in an adequate and timely manner.
+
+(f) The provisions of this Section 7 shall survive the expiration or earlier termination of this
+Agreement.
+
+TERM OF AGREEMENT
+
+(a) The initial term of this Agreement shall begin on the Effective Date and unless sooner
+terminated in accordance with this Agreement or by further agreement of the Parties, end on June 30,
+2027 (?Initial Term?).
+
+(b) This Agreement shall automatically extend at the end of the Initial Term or any renewal term for
+successive two-year periods, unless sooner terminated in accordance with this Agreement or by further
+agreement of the Parties (each a ?Renewal Term?; and together with the Initial Term, the ?Term?),
+unless either Party gives written notice of its intention not to allow auto-renew at least 90 and not more
+than 180 days, prior to the end of the then current Term.
+
+STATE LAW GOVERNING AGREEMENT
+
+(a) This Agreement will be governed by and construed in accordance with the laws of the State of
+New York, without regard to principles relating to conflicts of law.
+
+(b) The courts of the State of New York and the United States District Court for the Southern District
+of New York will have exclusive jurisdiction over the Parties with respect to any dispute or controversy
+between them arising under or in connection with this Agreement and, by execution and delivery of this
+Agreement, the parties to this Agreement submit to the jurisdiction of those courts, including, but not
+limited to, the in personam jurisdiction of those courts, and waive any objection to such jurisdiction on
+the grounds of venue or forum non conveniens, or the absence of in personam jurisdiction.
+
+GROUP MARKETING
+
+-14-

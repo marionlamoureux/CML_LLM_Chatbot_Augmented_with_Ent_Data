@@ -1,0 +1,63 @@
+With regards to the fraudulent use of debit cards, PSECU provides ATM service in accordance with
+Regulation E. A Check Card Agreement and Regutation E Disclosure (see Document 5 for a copy of this
+disclosure) is provided to all PSECU members opting to receive a card with ATM and Point-of-Sale (POS)
+functionality. Under the terms of the agreement, cardholders agree to notify PSECU immediately if
+they believe the card or ATM personal identification number (PIN) has been lost or stolen. The same
+terms apply if the cardholder believes the card or PIN has been or may have been used by anyone
+without their authorization. PIN protection on ATM debit cards typically ensures cardholders against
+loss. In the event of an erroneous or unauthorized transaction, members are asked to complete a
+dispute form to permit PSECU to investigate the dispute.
+
+Branch Banking and ATM Locations
+PSECU will continue to provide an on-campus service center in the Natali Student Center and our three
+
+(3) ATMs conveniently located on campus. Please refer to Document 6 for a list of the local ATMs in the
+area most recently used by our membership. University students, faculty and staff should incur little or
+no cost related to the use of our ATMs on campus or in the community. Please refer to our Cost
+Proposal for PSECU?s current fee schedule.
+
+Encoding Format/Data Fields
+PSECU bases all our card transaction communications on the ISO 8583 format standard. Currently we do
+
+Provide access to a PSECU Member?s Account for transactions initiated by our cardholders by linking to
+the CAL Campus ID Card. If awarded the contract, PSECU would provide more technical details
+regarding the encoding format or data fields, if requested.
+
+ATM Deposit Availability
+Deposits (via multiple deposit channels such as mobile deposits and ATM check and/or cash deposits)
+for PSECU members shall be immediately available (see Funds Availability Policy, page 35 for details).
+
+ATM Deposits to other Financial Institutions
+Deposits may be made to other financial institution accounts through a PSECU ATM, but it is understood
+that the deposits to those institutions may not be available for immediate withdrawal depending upon
+
+the funds availability policy set by the institution that issued the card.
+
+ATM Surcharges/Transaction Fees
+
+PSECU does not surcharge for member or non-member deposits, but does surcharge non-member
+withdrawal transactions at a rate of $1.50 at our California campus ATMs to offset the expense
+of the free services provided to our membership. Members can use virtually any ATM anywhere,
+for free, through our surcharge rebate program. All members are rebated up to $8 per month.
+Members with recurring Direct Deposit (no minimum required) are rebated up to $20 per month.
+In 2016, PSECU rebated over $5.2 million in ATM surcharges to our members. PSECU?s no-foreign
+ATM fee policy and liberal surcharge rebate program gives members ultimate freedom and
+convenience when it comes to using ATMs. In an average month, PSECU members use over 19,835
+
+ATMs in Pennsylvania.
+
+ATM Network Affiliation(s)
+ATMs installed by PSECU on University property are affiliated with the STAR?, PLUS?, Cirrus?, American
+
+Express?, Visa?, MasterCard? and Discover? networks. In addition, University student, faculty and staff
+PSECU members should incur little or no cost related to the use of our ATMs on campus or in the
+
+community.
+
+PSECU currently administers the CUS? surcharge-free ATM alliance, which offers over 1,015 surcharge-
+free ATMs to credit union members in Pennsylvania and 338 ATMs outside Pennsylvania. PSECU is a
+member of the CO-OP Financial Services ATM Network, which offers 30,000 surcharge-free ATMs
+nationwide to PSECU members. In addition, PSECU cardholders may access any ATM affiliated with the
+STAR?, PLUS?, Cirrus?, American Express?, Visa?, MasterCard? and Discover? networks.
+
+PSECU TECHNICAL PROPOSAL | RFP #CAL P17-01 P23

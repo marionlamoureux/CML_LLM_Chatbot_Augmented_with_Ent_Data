@@ -1,0 +1,76 @@
+1.4
+
+1.2
+
+1.3
+
+Schedule 2
+Co-Branded Card Agreement
+
+CARD CUSTOMIZATION SERVICES
+
+SERVICE DESCRIPTION
+Background
+
+1.4.4
+
+The Card Customization Services will be a hosted (ASP) solution to enable Cardholders
+using a design interface to customize the appearance of their Card using Customer-selected
+images on the face of the Card.
+
+You shall agree with Bank on a set-up for Card Customization that identifies the number and
+type of permissible customization options that may be selected by a Customer and which
+will be incorporated into Bank's Card Designer. Following such agreement, Bank shall
+incorporate the selected customization options into the Card Designer and shall make the
+Card Designer available to the general public over the internet, and shall host and support it
+during the Term.
+
+Bank shall have no responsibility for ensuring that the equipment of any Cardholder seeking
+to access or use the Card Designer complies with the applicable technical requirements to
+operate the Card Customization program.
+
+Design Interface
+
+124
+
+12:2
+
+The Card Designer will:
+
+1.2.1.1. make available up to five categories of up to nine images each, which may be
+used for Card production if the Cardholder does not opt to upload his or her own
+image;
+
+1.2.1.2 allow the Cardholder to upload their own image(s);
+
+1.2.1.3 allow the Cardholder to manipulate the image, (which may be either a stock gallery
+or Cardholder uploaded image), using standard controls; and
+
+1.2.1.4 generate a unique identifier assigned to each submitted card design, and include it
+as a parameter into a return URL agreed between the Parties.
+
+For the avoidance of doubt, you shall not be entitled to request any changes to the Card
+Designer after the set-up parameters have been agreed between you and Bank.
+
+Image Checking
+
+1.3.1
+
+Bank verifies that each image submitted by a Cardholder for incorporation into a Card for
+compliance with the provisions of Section 4.7 of the Agreement, and retains the right to
+reject any image that does not, in the Bank?s view, meet the qualifications set forth in that
+section of the Agreement. Bank?s determination in that regard is final.
+
+1.3.2 YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT IMAGE CHECKING IS
+
+PROVIDED BY BANK SOLELY AND EXCLUSIVELY FOR THE BENEFIT OF THE BANK
+AND THE CARD ASSOCIATION. AS A RESULT, WITHOUT PREJUDICE TO SECTION 8
+OF THE AGREEMENT, BANK SHALL HAVE NO LIABILITY TO YOU OR TO A
+CARDHOLDER FOR ANY LOSS SUFFERED BY YOU OR BY A CARDHOLDER IN
+CONNECTION WITH ANY ACT OR OMISSION ARISING OUT OF ITS PERFORMANCE
+(OR THAT OF ITS SUBCONTRACTORS) OF IMAGE CHECKING IN RELATION TO USER
+PROVIDED IMAGES.
+
+[End of Schedule 2]
+
+Co-branded Card Agreement Page 20 of 20

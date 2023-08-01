@@ -1,0 +1,38 @@
+timely manner. Unless otherwise expressly agreed in writing, ?timely? will mean that GKIHS will
+introduce such fix or patch as soon as commercially reasonable after GKIHS become aware of the
+security problem. This obligation extends to all devices that comprise GKIHS's systems, e.g., application
+software, databases, servers, firewalls, routers and switches, hubs, etc., and to all of GKIHS?s other
+Information handling practices.
+
+(h) Security of Accountholder Information. GKIHS has and will maintain throughout the term of this
+Agreement and for such time period after the termination of this Agreement as GKIHS possesses,
+controls or has access to Accountholder Information, an information security program that is designed
+to: (i) ensure the security, integrity and confidentiality of the Accountholder Information; (ii) protect
+against any anticipated threats or hazards to the security or integrity of Accountholder Information; (ili)
+protect against unauthorized access to or use of Accountholder information that could result in
+substantial harm or inconvenience to a Customer; and (iv) ensure the proper return of Accountholder
+Information to Bank and/or the proper disposal of Accountholder Information. GKIHS represents and
+
+warrants that it is PCI-DSS compliant and will remain PCI-DSS compliant for as long as GKIHS retains an
+Accountholder List or Accauntholder Information.
+
+(i) This section shall survive the expiration or earlier termination of this Agreement.
+
+IN WITNESS WHEREOF, each of the Parties, by its representative (who represents and warrants to the other
+
+Party that he or she has the necessary authority to bind his or her respective Party), has executed this
+Agreement as of the Effective Date.
+
+Ya .
+BLY By; $ Cc
+
+p? _~
+Name: dake Fregs
+Tite: _-ExeCe at Title: Yeaee Vice Poy idoat
+
+Gank of America, N.A.
+
+19
+
+GOLDEN KEY INTEANATIONAL HONOUR SOCiETY SECOND AR AFFINITY AGHEEMENT (EXEC! TIGN COPY}
+

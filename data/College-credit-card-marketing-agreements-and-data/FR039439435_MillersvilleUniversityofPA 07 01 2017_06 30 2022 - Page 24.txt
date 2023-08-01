@@ -1,0 +1,55 @@
+35, MANDATORY REPORTING REQUIREMENTS. All employees and subcontractors of
+Contractor who provide a program, activity, or service to the State System that are
+responsible for the care, supervision, guidance, or control of children are considered
+mandatory reporters of suspected cases of child abuse under Pennsylvania law if the
+individual has reasonable cause to suspect that a child is the victim of child abuse
+under any of the following circumstances: (i)the mandated reporter comes into contact
+with the child in the course of employment, occupation and practice of a profession or
+through a regularly scheduled program, activity or service; (ii) the mandated reporter is
+directly responsible for the care, supervision, guidance or training of the child, or is
+affiliated with an agency, institution, organization, school, regularly established church
+or religious organization or other entity that is directly responsible for the care,
+supervision, guidance or training of the child; (iii) a person makes a specific disclosure
+to the mandated reporter that an identifiable child is the victim of child abuse; or (iv)
+an individual 14 years of age or older makes a specific disclosure to the mandated
+reporter that the individual has committed child abuse. Nothing in this section shalt
+require a child to come before the mandated reporter in order for the mandated
+reporter to make a report of suspected child abuse. Nothing in this section shall require
+the mandated reporter to identify the person responsible for the child abuse to make a
+report of suspected child abuse.
+
+Mandated reporters must immediately make an oral report of suspected child abuse to
+the Department of Human Services (DHS), formerly the Department of Public Welfare,
+by calling 1-800-932-0313, or by filing a written report with DHS through Pennsylvania?s
+Child Welfare Information Solution portal (https://www.compass.state.pa.us/CWIS). If
+an oral report is made, a written report shall also be made within 48 hours to DHS or
+the county agency assigned to the case as prescribed by DHS.
+
+In addition to the mandatory reporting requirements above, employees and
+subcontractors of Contractor must immediately notify the State System that a report of
+suspected child abuse has been made.
+
+36. CONTRACTOR CONFIDENTIAL INFORMATION. Confidentiality: University agrees,
+acknowledges, and recognizes that Contractor is a highly regulated financial
+institution under a strict duty of confidentiality with regard to its operations and its
+member records, specifically any "Confidential Information". Confidential Information
+shall specifically include, but not be limited to, the following: all non-public member
+data; account or personal information; such as account numbers, access codes,
+account ownership and names of account owners; account owner email addresses;
+demographic information; and financial transactions conducted within those accounts;
+any employee information that would typically be considered of a confidential nature;
+inventory lists; competitively or business sensitive material that is not generally
+known to the public; scientific or technical information, including hardware
+information, system descriptions and recovery point information and recovery time
+objectives; computer hardware, software or other technical design or information,
+including processing parameters and procedures; and relationships with customers or
+vendors of Contractor, the products of any of them, and any performance results of
+any of them.
+
+University will not sell, transfer or share with any third parties any Confidential
+Information which it receives during the ordinary course of conducting business with
+Contractor or otherwise, unless it receives prior written consent from Contractor
+following notice given to Contractor by University specifying exactly what information
+is to be shared and with whom it will be shared and the reason permission to disclose
+
+Page 20 of 24

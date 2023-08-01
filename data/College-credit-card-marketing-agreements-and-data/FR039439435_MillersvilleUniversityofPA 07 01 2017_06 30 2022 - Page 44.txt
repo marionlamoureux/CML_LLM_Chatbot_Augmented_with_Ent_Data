@@ -1,0 +1,55 @@
+PSECU Work Statement
+
+Automated Teller Machine (ATM) Requirements
+
+A. ATM Installation and Operation
+PSECU acknowledges the need for ATMs on campus and will continue to operate and maintain a
+minimum of five (5) ATMs on the Millersville University campus with their current functionality
+and in their current locations. In order to provide ongoing excellent member service, additional
+ATMs may be added later in the contract by mutual agreement as to location and service
+functionality.
+
+B. ATM Service
+a. Maintenance is performed by Diebold Nixdorf, Inc., a leading global supplier of ATMs;
+cash replenishments are performed by Dunbar on an as needed basis, dependent on
+usage trends. In keeping with security guidelines, a specific arrival time is not able to
+be provided.
+
+b. During times of heavy usage (special events on campus), the Financial Education Center
+Staff will inform PSECU of the possible need for additional maintenance or servicing.
+
+C. ATM Maintenance
+a. The University may report ATM problems directly to PSECU staff either by contacting
+our Financial Education Center Community Manager or by calling PSECU at
+800.237.7328, extension 2354, option 1.
+
+b. PSECU contracts with Diebold Nixdorf, Inc. to provide maintenance to our ATMs. 1
+University ATMs are on a two-hour (7 days a week from 8 a.m. to 10 p.m.) response
+service contract. In keeping with security guidelines, a specific arrival time is not able
+to be provided. PSECU staff monitors real-time status of ATM incidents and availability
+during normal business hours through online software.
+
+c. In addition, STAR? and Diebold Nixdorf, Inc. monitor our ATM network via online
+software. Sensors in the ATM alert both service providers immediately of any fault in
+the machine (out of cash, paper jams, etc).
+
+D. ATM Responsibility
+a. PSECU bears all costs of installation of ATMs to University standards. PSECU will be
+responsible for the installation and on-going maintenance for all campus ATMs.
+
+b. With regards to the fraudulent use of debit cards, PSECU provides ATM service in
+accordance with Regulation E so the University will have no liability for lost, stolen or
+fraudulent use of any ATM debit Card. A Card Agreement and Regulation E disclosure is
+provided to all PSECU members opting to receive a card with ATM and Point-of-Sale
+(POS) functionality. Under the Terms of Agreement, cardholders agree to notify PSECU
+immediately if they believe the card or ATM personal identification number (PIN) has
+been lost or stolen. The same terms apply if the cardholder believes the card or PIN
+has been or may have been used by anyone without their authorization. Since the card
+uses a PIN to secure the transaction, the only time an unauthorized transaction can
+occur is when the PIN is breached. PIN protection on ATM debit cards typically ensures
+cardholders against loss. In the event of an erroneous or unauthorized transaction,
+
+- - a - . ae * :
+RFP: MVU-SP162784 FOR ATM & BANKING SERVICES PSE@ee
+
+Technical Proposal | Page 5 of 34
