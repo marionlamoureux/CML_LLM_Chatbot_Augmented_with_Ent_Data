@@ -10,7 +10,7 @@ The first step for the second part of the lab will be to create another project 
  3. Select Runtime setup **Basic**, Python 3.9 kernel.
  4. Tick on the **Add GPU enabled Runtime variant**
  5. Click **Create Project**
- ![create_project](./images/create_project.png)
+ ![create_project](../images/create_project.png)
 
 
 ## 0_session-resource-validation

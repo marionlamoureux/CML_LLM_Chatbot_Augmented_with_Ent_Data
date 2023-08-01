@@ -83,33 +83,10 @@ The project is organized with the following folder structure:
 ├── README.md
 └── LICENSE.txt
 ```
-## Implementation
-### `data/`
-This directory stores all the individual sample documents that are used for context retrieval in the chatbot application
+## Data
+The `data`  directory stores all the individual sample documents that are used for context retrieval in the chatbot application
 - Sourced from:
   - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/). Which provides agreements/contracts and related data about credit card issuers who have marketing agreements with universities, colleges, or affiliated organizations such as alumni associations, sororities, fraternities, and foundations in the USA.
-
-### `1_session-install-deps`
-- Install python dependencies specified in 1_session-install-deps/requirements.txt
-
-### `2_job-download-models`
-Definition of the job **Download Models** 
-- Directly download specified models from huggingface repositories
-- These are pulled to new directories models/llm-model and models/embedding-model
-
-### `3_job-populate-vectordb`
-Definition of the job **Populate Vector DB with documents embeddings**
-- Start the milvus vector database and set database to be persisted in new directory milvus-data/
-- Generate embeddings for each document in data/
-- The embeddings vector for each document is inserted into the vector database
-- Stop the vector database
-
-### `4_app`
-Definition of the application `CML LLM Chatbot`
-- Start the milvus vector database using persisted database data in milvus-data/
-- Load locally persisted pre-trained models from models/llm-model and models/embedding-model 
-- Start gradio interface 
-- The chat interface performs both retrieval-augmented LLM generation and regular LLM generation for bot responses.
 
 ## Technologies Used
 #### Open-Source Models and Utilities
@@ -124,12 +101,4 @@ Definition of the application `CML LLM Chatbot`
 - [Gradio](https://github.com/gradio-app/gradio)
 
 ## Deploying on CML
-There are two ways to launch this prototype on CML, for the purpose of this workshop we will be deploying it in the following way:
-
- **As ML Prototype** 
- 1. In a CML workspace, click **New Project**, add a Project Name (we recommend adding your user to avoid having duplicate names), and a description
- 2. Select Git as the Initial Setup option and add the repo URL --> https://github.com/nhernandezdlm/CML_LLM_Chatbot_Augmented_with_Enterprise_Data.git
- 3. Select Runtime setup **Basic**, Python 3.9 kernel.
- 4. Tick on the **Add GPU enabled Runtime variant**
- 5. Click **Create Project**
- ![create_project](./images/create_project.png)
+ To build this project from source code without automatic execution of project setup, you should follow the steps listed [in this document](code/README.md) carefully and in order.
