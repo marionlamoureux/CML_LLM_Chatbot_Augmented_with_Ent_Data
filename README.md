@@ -87,9 +87,7 @@ The project is organized with the following folder structure:
 ### `data/`
 This directory stores all the individual sample documents that are used for context retrieval in the chatbot application
 - Sourced from:
-  - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/)
-  - [CML](https://docs.cloudera.com/machine-learning/cloud/index.html)
-
+  - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/). Which provides agreements/contracts and related data about credit card issuers who have marketing agreements with universities, colleges, or affiliated organizations such as alumni associations, sororities, fraternities, and foundations in the USA.
 
 ### `1_session-install-deps`
 - Install python dependencies specified in 1_session-install-deps/requirements.txt
@@ -126,7 +124,6 @@ Definition of the application `CML LLM Chatbot`
 - [Gradio](https://github.com/gradio-app/gradio)
 
 ## Deploying on CML
-There are two ways to launch this prototype on CML:
+There are two ways to launch this prototype on CML, for the purpose of this workshop we will be deploying it in the following way:
 
-1. **From Prototype Catalog** - Navigate to the Prototype Catalog on a CML workspace, select the "LLM Chatbot Augmented with Enterprise Data" tile, click "Launch as Project", click "Configure Project"
-2. **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data), click "Create Project", click "Configure Project"
+ **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/nhernandezdlm/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data.git), click "Create Project", click "Configure Project"
