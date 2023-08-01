@@ -6,7 +6,7 @@ The following step-by-step instructions correspond to the project files in this 
 The first step for the second part of the lab will be to create another project within CML using another git repo as a starting point. For this you will need to:
 
  1. In a CML workspace, click **New Project**, add a Project Name (we recommend adding your user to avoid having duplicate names), and a description
- 2. Select Git as the Initial Setup option and add the repo URL: https://github.com/nhernandezdlm/CML_LLM_Chatbot_Augmented_with_Enterprise_Data.git
+ 2. Select Git as the Initial Setup option and add the repo URL: https://github.com/nhernandezdlm/CML_LLM_Chatbot_Augmented_with_Ent_Data.git
  3. Select Runtime setup **Basic**, Python 3.9 kernel.
  4. Tick on the **Add GPU enabled Runtime variant**
  5. Click **Create Project**
