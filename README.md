@@ -126,4 +126,10 @@ Definition of the application `CML LLM Chatbot`
 ## Deploying on CML
 There are two ways to launch this prototype on CML, for the purpose of this workshop we will be deploying it in the following way:
 
- **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/nhernandezdlm/CML_LLM_Chatbot_Augmented_with_Enterprise_Data.git), click "Create Project", click "Configure Project"
+ **As ML Prototype** 
+ 1. In a CML workspace, click **New Project**, add a Project Name (we recommend adding your user to avoid having duplicate names), and a description
+ 2. Select Git as the Initial Setup option and add the repo URL --> https://github.com/nhernandezdlm/CML_LLM_Chatbot_Augmented_with_Enterprise_Data.git
+ 3. Select Runtime setup **Basic**, Python 3.9 kernel.
+ 4. Tick on the **Add GPU enabled Runtime variant**
+ 5. Click **Create Project**
+ ![create_project](./images/create_project.png)
