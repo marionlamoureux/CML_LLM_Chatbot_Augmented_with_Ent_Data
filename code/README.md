@@ -23,12 +23,13 @@ For this you will need to create a session (this session will be used on the nex
 4. Create session
 ![new_session](../images/new_session.png)
 
-Once the session is running,open the `check_gpu_capability.py` script, then click **Run > Run All**.
-Repeteat the same process with the `check_gpu_resources.py` script. This will do the initial checks.
+Make sure the session has 2vCPU and 8GiB of memory at least for this script.
+Once the session is running,open the `0_0_check_gpu_capability.py` script, then click **Run > Run All**.
+Repeteat the same process with the `0_1_check_gpu_resources.py` script. This will do the initial checks.
 
 
 ## 1_session-install-deps
-To install the dependencies for this project, you will need to run the script `code/1_session-install-deps/install_dependencies.py` by opening the script and clicking **Run > Run All**. this will install the python dependencies specified in `code/1_session-install-deps/requirements.txt`
+To install the dependencies for this project, you will need to run the script `code/1_session-install-deps/install_dependencies.py` by opening the script and clicking **Run > Run All**. This will install the python dependencies specified in `code/1_session-install-deps/requirements.txt`
 
 ## 2_job-download-models
 To download the models we will schedule a job that will directly download specified models from the huggingface repositories. These are pulled to new directories `models/llm-model` and `models/embedding-model`. 
