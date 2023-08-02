@@ -20,7 +20,7 @@ def main():
                             outputs=[gradio.Textbox(label="Asking LLM with No Context"),
                                      gradio.Textbox(label="Asking LLM with Context (RAG)")],
                             examples=["What is Cardholder Rewards?",
-                                      "Is there discrimination in MidFirst?",
+                                      "What is the university of Nevada Reno agreement automatic renewal?",
                                       "What is the Transaction Reward in Park University?"],
                             allow_flagging="never")
 
