@@ -36,7 +36,7 @@ For more detailed description of architectures like this and how it can enhance 
 
 ### Retrieval Augmented Generation (RAG) Architecture
 - Knowledge base Ingest into Vector Database
-  - Given a local directory of proprietary data files (in this example 11 documentation files about CML)
+  - Given a local directory of proprietary data files (in this example 1000 contracts for College Student Credit Cards in the USA)
   - Generate embeddings with an open sourced pretrained model for each of those files
   - Store those embeddings along with document IDs in a Vector Database to enable semantic search
 - Augmenting User Question with Additional Context from Knowledge Base
