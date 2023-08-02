@@ -23,7 +23,7 @@ For this you will need to create a session (this session will be used on the nex
 4. Create session
 ![new_session](../images/new_session.png)
 
-Make sure the session has 2vCPU and 8GiB of memory at least for this script.
+Make sure the session has 4vCPU and 32GiB of memory at least for this script.
 Once the session is running,open the `0_0_check_gpu_capability.py` script, then click **Run > Run All**.
 Repeteat the same process with the `0_1_check_gpu_resources.py` script. This will do the initial checks.
 
@@ -40,7 +40,7 @@ To create a new job, go to **Jobs > New Job** (in the left side bar) and enter t
 * **Arguments**:Leave blank
 * **Kernel**: Python 3
 * **Schedule**: Manual
-* **Engine Profile**: 2 vCPU / 8 GiB Memory
+* **Engine Profile**: 4 vCPU / 32 GiB Memory
 
 ![schedule_job](../images/schedule_job.png)
 
@@ -51,7 +51,7 @@ In this step we will:
 - The embeddings vector for each document will be inserted into the vector database
 - Finally stop the vector database
 
-We will be using a Jupyter Notebook. For this, we need to start a **New Session** using Jupyterlab 2 vCPU / 8 GiB Memory and open the `code/3_job_ipynb-populate-vectordb/vectordb_insert.ipynb` file.
+We will be using a Jupyter Notebook. For this, we need to start a **New Session** using Jupyterlab 4 vCPU / 32 GiB Memory and open the `code/3_job_ipynb-populate-vectordb/vectordb_insert.ipynb` file.
 
 ![new_session_2](../images/new_session_2.png)
 
@@ -68,7 +68,7 @@ To create the application go to **Applications** > **New Application** with the 
 * **Script**: code/4_app/llm_rag_app.py
 * **Kernel**: Python 3
 * **Edition**: Nvidia GPU
-* **Engine Profile**: 2vCPU / 16 GiB Memory
+* **Engine Profile**: 8vCPU / 64 GiB Memory
 * **Enable Spark toggle**: No
 * **GPUs**: 1 GPU
 
