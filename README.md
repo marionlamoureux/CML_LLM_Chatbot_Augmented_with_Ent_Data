@@ -52,7 +52,7 @@ The first step for the second part of the lab will be to create another project 
  3. Select Runtime setup **Basic**, Python 3.9 kernel.
  4. Tick on the **Add GPU enabled Runtime variant**
  5. Click **Create Project**
- ![create_project](../images/create_project.png)
+ ![create_project](./images/create_project.png)
 
 
 ## 0_session-resource-validation
@@ -63,7 +63,7 @@ For this you will need to create a session (this session will be used on the nex
 2. Select **Workbench** for the Editor and **Python 3.9** for the Kernel, and Edition **Nvidia GPU**
 3. You must select 1 GPU from the **Resource Profile**. 
 4. Create session
-![new_session](../images/new_session.png)
+![new_session](./images/new_session.png)
 
 Make sure the session has 4vCPU and 32GiB of memory at least for this script.
 Once the session is running,open the `0_0_check_gpu_capability.py` script, then click **Run > Run All**.
@@ -84,7 +84,7 @@ To create a new job, go to **Jobs > New Job** (in the left side bar) and enter t
 * **Schedule**: Manual
 * **Engine Profile**: 4 vCPU / 32 GiB Memory
 
-![schedule_job](../images/schedule_job.png)
+![schedule_job](./images/schedule_job.png)
 
 ## 3_job-populate-vectordb
 In this step we will:
@@ -95,7 +95,7 @@ In this step we will:
 
 We will be using a Jupyter Notebook. For this, we need to start a **New Session** using Jupyterlab 4 vCPU / 32 GiB Memory and open the `code/3_job_ipynb-populate-vectordb/vectordb_insert.ipynb` file.
 
-![new_session_2](../images/new_session_2.png)
+![new_session_2](./images/new_session_2.png)
 
 _Note: You can also schedule a job for this step, for that you will follow the same steps as the previous point and add the `code/3_job_ipynb-populate-vectordb/vectordb_insert.py` script._
 
@@ -114,11 +114,10 @@ To create the application go to **Applications** > **New Application** with the 
 * **Enable Spark toggle**: No
 * **GPUs**: 1 GPU
 
-![create_app](../images/create_app.png)
+![create_app](./images/create_app.png)
 
 ## CML LLM Chatbot
-![final_app](../images/final_app.png)
-
+![final_app](./images/final_app.png)
 
 
 ## Enhancing Chatbot with Enterprise Context to reduce hallucination
