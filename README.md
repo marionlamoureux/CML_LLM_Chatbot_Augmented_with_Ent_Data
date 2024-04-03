@@ -5,7 +5,7 @@ The responses of the LLM are enhanced by giving it context from an internal know
 
 Watch the Chatbot in action [here](https://www.youtube.com/watch?v=WBH9hYDyHKU).
 
-![image](./images/app-screenshot.png)
+![app_screenshot](./images/app-screenshot.png)
 All the components of the application (knowledge base, context retrieval, prompt enhancement LLM) are running within CML. This application does not call any external model APIs nor require any additional training of an LLM. 
 The knowledge base provided in this repository is a slice of the Cloudera Machine Learning documentation.
 
@@ -107,10 +107,12 @@ The last step of our lab will be focused on creating an application where we we 
 
 To create the application go to **Applications** > **New Application** with the following details: 
 * **Name**: CML LLM Chatbot
-* **Subdomain**: llmApp _(note: this needs to be unique, so if you've done this before, 
+* **Subdomain**: llmApp`<yourname>` _(note: this needs to be unique, so if you've done this before, 
   pick a more random subdomain name)_
+* **Description**: _optional_
+* **Allow Unauthenticated Access**: tick box
 * **Script**: code/4_app/llm_rag_app.py
-* **Kernel**: Python 3
+* **Runtime**: Workbench Python 3.9
 * **Edition**: Nvidia GPU
 * **Engine Profile**: 8vCPU / 64 GiB Memory
 * **Enable Spark toggle**: No
@@ -123,9 +125,37 @@ To create the application go to **Applications** > **New Application** with the 
 
 #### 5_model
 The **[Models](https://docs.cloudera.com/machine-learning/cloud/models/topics/ml-creating-and-deploying-a-model.html)** 
-is used to deploy a machine learning model into production for real-time prediction. To
-deploy the model trailed in the previous step, from the Project page, click **Models > New
-Model** and create a new model with the following details:
+is used to deploy a machine learning model into production for real-time prediction. 
+
+How to deploy a model  
+* **Step 1** - Writing in python the function for the model.  
+Example function:  
+```python
+# == Main Function ==
+def PredictFunc(args):
+	# Get Prediction
+	prediction = model.predict(arg)
+	# Return Prediction
+	return prediction
+```  
+* **Step 2** - Add requirements for model container:  
+- you need a requirements.txt file  
+- you need a cdsw-build.sh with the pip install for the requirements file.  
+
+![cdsw-buildfile](./images/cdsw-build-pic.png)  
+* **Step 3** - Create the model under the "model" tab and indicate the arguments as input in a json format, based on the arguments of the python function.
+
+**In python:**    
+`arg = "Example question of your choice"`  
+
+
+**In the model form:**  
+`{
+  "prompt":"Example question of your choice"
+}`  
+
+To deploy the model trailed in the previous step, from the Project page, click **Models > New
+Model** and create a new model with the following details:  
 
 * **Name**: Explainer
 * **Description**: Explain customer churn prediction

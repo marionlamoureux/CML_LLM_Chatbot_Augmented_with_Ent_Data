@@ -1,3 +1,4 @@
+!pip3 install -r requirements.txt
 import os
 import gradio
 
@@ -19,9 +20,8 @@ def main():
                             inputs=gradio.Textbox(label="Question", placeholder=""),
                             outputs=[gradio.Textbox(label="Asking LLM with No Context"),
                                      gradio.Textbox(label="Asking LLM with Context (RAG)")],
-                            examples=["What is Cardholder Rewards?",
-                                      "What is the university of Nevada Reno agreement automatic renewal?",
-                                      "What is the Transaction Reward in Park University?"],
+                            examples=["Why do my devices keep connecting to BT Wi-fi instead of my BT Hub?",
+                                     "What does a blue light mean on my BT device?"],
                             allow_flagging="never")
 
 
