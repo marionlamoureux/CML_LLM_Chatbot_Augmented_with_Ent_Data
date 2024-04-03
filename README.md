@@ -9,7 +9,8 @@ Watch the Chatbot in action [here](https://www.youtube.com/watch?v=WBH9hYDyHKU).
 All the components of the application (knowledge base, context retrieval, prompt enhancement LLM) are running within CML. This application does not call any external model APIs nor require any additional training of an LLM. 
 The knowledge base provided in this repository is a slice of the Cloudera Machine Learning documentation.
 
-> **IMPORTANT**: Please read the following before proceeding.  By configuring and launching this AMP, you will cause h2oai/h2ogpt-oig-oasst1-512-6.9b, which is a third party large language model (LLM), to be downloaded and installed into your environment from the third party’s website.  Please see https://huggingface.co/h2oai/h2ogpt-oig-oasst1-512-6.9b for more information about the LLM, including the applicable license terms.  If you do not wish to download and install h2oai/h2ogpt-oig-oasst1-512-6.9b, do not deploy this repository.  By deploying this repository, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for h2oai/h2ogpt-oig-oasst1-512-6.9b. Author: Cloudera Inc.
+> **IMPORTANT**: Please read the following before proceeding.  By configuring and launching this project, you will cause h2oai/h2ogpt-oig-oasst1-512-6.9b, which is a third party large language model (LLM), to be downloaded and installed into your environment from the third party’s website.  Please see https://huggingface.co/h2oai/h2ogpt-oig-oasst1-512-6.9b for more information about the LLM, including the applicable license terms.
+If you do not wish to download and install h2oai/h2ogpt-oig-oasst1-512-6.9b, do not deploy this repository.  By deploying this repository, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for h2oai/h2ogpt-oig-oasst1-512-6.9b. Author: Cloudera Inc.
 
 ## Table of Contents  
 #### LABS
@@ -18,6 +19,7 @@ The knowledge base provided in this repository is a slice of the Cloudera Machin
 * Lab 2 - Download models
 * Lab 3 - Populate vector database
 * Lab 4 - Build the app
+* Lab 5 - Serve model
 
 #### README
 * [Enhancing Chatbot with Enterprise Context to reduce hallucination](#enhancing-chatbot-with-enterprise-context-to-reduce-hallucination)
@@ -36,11 +38,11 @@ The knowledge base provided in this repository is a slice of the Cloudera Machin
     * [Limitations](guides/troubleshooting.md#limitations)
 
 
-## LABS
+# LABS
 *Deploying on CML*  
 To build this project from source code without automatic execution of project setup, you should follow the steps listed carefully and in order.
 
-# Project Build Process
+## Project Build Process
 
 The following step-by-step instructions correspond to the project files in this directory and should be followed in sequential order.
 
@@ -55,7 +57,7 @@ The first step for the second part of the lab will be to create another project 
  ![create_project](./images/create_project.png)
 
 
-## 0_session-resource-validation
+### 0_session-resource-validation
 Before starting the project, a GPU resource validation needs to happen. 
 
 For this you will need to create a session (this session will be used on the next step - installing the dependencies as well). Follow these steps:
@@ -70,10 +72,10 @@ Once the session is running,open the `0_0_check_gpu_capability.py` script, then 
 Repeteat the same process with the `0_1_check_gpu_resources.py` script. This will do the initial checks.
 
 
-## 1_session-install-deps
+### 1_session-install-deps
 To install the dependencies for this project, you will need to run the script `code/1_session-install-deps/install_dependencies.py` by opening the script and clicking **Run > Run All**. This will install the python dependencies specified in `code/1_session-install-deps/requirements.txt`
 
-## 2_job-download-models
+### 2_job-download-models
 To download the models we will schedule a job that will directly download specified models from the huggingface repositories. These are pulled to new directories `models/llm-model` and `models/embedding-model`. 
 To create a new job, go to **Jobs > New Job** (in the left side bar) and enter the following settings:
 
@@ -86,7 +88,7 @@ To create a new job, go to **Jobs > New Job** (in the left side bar) and enter t
 
 ![schedule_job](./images/schedule_job.png)
 
-## 3_job-populate-vectordb
+### 3_job-populate-vectordb
 In this step we will:
 - Start a milvus vector database and set database to be persisted in new directory `milvus-data/`
 - Generate embeddings for each document in `data/`
@@ -100,7 +102,7 @@ We will be using a Jupyter Notebook. For this, we need to start a **New Session*
 _Note: You can also schedule a job for this step, for that you will follow the same steps as the previous point and add the `code/3_job_ipynb-populate-vectordb/vectordb_insert.py` script._
 
 
-## 4_app
+### 4_app
 The last step of our lab will be focused on creating an application where we we will have a chat interface that performs both retrieval-augmented LLM generation and regular LLM generation for bot responses.
 
 To create the application go to **Applications** > **New Application** with the following details: 
@@ -118,6 +120,39 @@ To create the application go to **Applications** > **New Application** with the 
 
 ## CML LLM Chatbot
 ![final_app](./images/final_app.png)
+
+#### 5_model
+The **[Models](https://docs.cloudera.com/machine-learning/cloud/models/topics/ml-creating-and-deploying-a-model.html)** 
+is used to deploy a machine learning model into production for real-time prediction. To
+deploy the model trailed in the previous step, from the Project page, click **Models > New
+Model** and create a new model with the following details:
+
+* **Name**: Explainer
+* **Description**: Explain customer churn prediction
+* **Disable** authentication
+* **File**: 5_model_serve_explainer.py
+* **Function**: explain
+* **Input**: 
+```
+{
+"prompt":"Is this thing on?"
+}
+```
+* **Kernel**: Python 3
+* **Enable Spark**: No
+* **Engine Profile**: 1vCPU / 2 GiB Memory
+
+
+Leave the rest unchanged. Click **Deploy Model** and the model will go through the build 
+process and deploy a REST endpoint. Once the model is deployed, you can test it is working 
+from the Model Overview page.
+
+_**Note: This is important**_
+
+Once the model is deployed, you must disable the additional model authentication feature.
+In the model settings page, untick **Enable Authentication**.
+
+![disable_auth](./images/disable_auth.png)
 
 
 ## Enhancing Chatbot with Enterprise Context to reduce hallucination
@@ -171,6 +206,7 @@ The project is organized with the following folder structure:
       ├───2_job-download-models/          # Scripts for downloading pre-trained models
       ├───3_job-populate-vectordb/        # Scripts for init and pop a vector db with context
       ├───4_app/                          # Scripts for app and the reqs for the models
+      ├───5_models/                       # Scripts for serving model    
       ├───utils/                          # Python module for functions used in the project
 ├── data/                                 # Sample documents to use to context retrieval
 ├── images/
