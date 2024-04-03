@@ -216,7 +216,7 @@ The project is organized with the following folder structure:
 ## Data
 The `data`  directory stores all the individual sample documents that are used for context retrieval in the chatbot application
 - Sourced from:
-  - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/student-banking/marketing-agreements-and-data/). Which provides agreements/contracts and related data about credit card issuers who have marketing agreements with universities, colleges, or affiliated organizations such as alumni associations, sororities, fraternities, and foundations in the USA.
+#TODO
 
 ## Technologies Used
 #### Open-Source Models and Utilities
