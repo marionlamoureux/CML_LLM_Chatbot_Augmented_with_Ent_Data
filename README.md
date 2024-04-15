@@ -95,10 +95,11 @@ Once the session is running,open the `0_0_check_gpu_capability.py` script, then 
 Repeteat the same process with the `0_1_check_gpu_resources.py` script. This will do the initial checks.
 
 
-### 1_session-install-deps
+### 1. session-install-deps
 To install the dependencies for this project, you will need to run the script `code/1_session-install-deps/install_dependencies.py` by opening the script and clicking **Run > Run All**. This will install the python dependencies specified in `code/1_session-install-deps/requirements.txt`
 
-### 2_job-download-models
+### 2. Download-models - DNU
+**Because this takes a little bit of time to run, the models were already downloaded for the purpose of this lab.**
 To download the models we will schedule a job that will directly download specified models from the huggingface repositories. These are pulled to new directories `models/llm-model` and `models/embedding-model`. 
 To create a new job, go to **Jobs > New Job** (in the left side bar) and enter the following settings:
 
@@ -111,7 +112,7 @@ To create a new job, go to **Jobs > New Job** (in the left side bar) and enter t
 
 ![schedule_job](./images/schedule_job.png)
 
-### 3_job-populate-vectordb
+### 3. Populate vectorDB
 In this step we will:
 - Start a milvus vector database and set database to be persisted in new directory `milvus-data/`
 - Generate embeddings for each document in `data/`
@@ -125,7 +126,7 @@ We will be using a Jupyter Notebook. For this, we need to start a **New Session*
 _Note: You can also schedule a job for this step, for that you will follow the same steps as the previous point and add the `code/3_job_ipynb-populate-vectordb/vectordb_insert.py` script._
 
 
-### 4_app
+### 4. app
 The last step of our lab will be focused on creating an application where we we will have a chat interface that performs both retrieval-augmented LLM generation and regular LLM generation for bot responses.
 
 To create the application go to **Applications** > **New Application** with the following details: 
@@ -142,6 +143,38 @@ To create the application go to **Applications** > **New Application** with the 
 * **GPUs**: 1 GPU
 
 ![create_app](./images/create_app.png)
+
+### 5. Model
+Deploying a model here will allow us to send requests to our bot in the form of prompt and have it send the answer back using a REST API.
+It referes a function within a R or python file: The function to be invoked inside the file. This function should take a single JSONencoded object (for example, a python dictionary) 
+as input and return a JSON-encodable object as output to ensure compatibility with any 
+application accessing the model using the API. JSON decoding and encoding for model 
+input/output is built into Cloudera Machine Learning.
+
+Models can be deployed in a matter of clicks, removing any roadblocks to production. 
+They are served as REST endpoints in a high availability manner,
+with automated lineage building and metric tracking for MLOps purposes.
+
+From the Project Overview, click "New Model".  
+![Newmodel.png](./images/Newmodel.png)  
+
+In the configuration window for you model indicate:
+* **Deploy model from code**
+* **Name**: Chatbot as a model - User<xx>
+* **Description**: Chatbot as a model
+* **Enable Authentication**:Untick
+* **File**: code/5_model/model.py
+* **Function Name**:get_responses
+* **Example Input**:
+`
+{"prompt":"What does a blue light mean on my BT device?"}
+`
+* **Runtime**: Workbench Python 3.9
+* **Edition**: Nvidia GPU
+* **Engine Profile**: 8vCPU / 64 GiB Memory
+* **Enable Spark toggle**: No
+* **GPUs**: 1 GPU
+* **Replicas**: 1
 
 ## CML LLM Chatbot
 ![final_app](./images/final_app.png)
