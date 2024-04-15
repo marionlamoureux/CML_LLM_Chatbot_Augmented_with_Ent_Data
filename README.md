@@ -177,7 +177,7 @@ In the configuration window for you model indicate:
 * **Replicas**: 1
 
 ## CML LLM Chatbot
-![final_app](./images/final_app.png)
+![Marion_finalApp](./images/Marion_finalApp.png)
 
 #### 5_model
 The **[Models](https://docs.cloudera.com/machine-learning/cloud/models/topics/ml-creating-and-deploying-a-model.html)** 
