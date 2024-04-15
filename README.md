@@ -45,8 +45,17 @@ To build this project from source code without automatic execution of project se
 ## Project Build Process
 
 The following step-by-step instructions correspond to the project files in this directory and should be followed in sequential order.
+- Create a project (by forking an existing one in the CML workspace)  
+- Add required Runtimes  
+  
+### Creating a Project
+There are various ways to be creating a project.
+Because of the size of the models we'll be using in this lab, please fork the "MASTER" project in the workspace.
+  
+![forkproject1.png] (./images/forkproject1.png)
+ 
 
-## Creating a Project
+**FOR REFERENCE ONLY** Below is the how to to clone a git repository. 
 The first step for the second part of the lab will be to create another project within CML using another git repo as a starting point. For this you will need to:
 
  1. In a CML workspace, click **New Project**, add a Project Name (we recommend adding your user to avoid having duplicate names), and a description
@@ -56,7 +65,21 @@ The first step for the second part of the lab will be to create another project 
  5. Click **Create Project**
  ![create_project](./images/create_project.png)
 
+### Add Runtimes
+For the purpose of running the code, make sure you have the appropriate runtimes available in your project:
+You can think of an ML Runtime as a virtual machine, customized to have all the necessary dependencies to access the computing cluster while keeping each project’s environment entirely isolated. To ensure that every ML Runtime has access to the parcels and client configuration managed by the Cloudera Manager Agent, a number of folders are mounted from the host into the container environment.
+  
+ML Runtimes have been open sourced and are available in the cloudera/ml-runtimes GitHub repository. If you need to understand your Runtime environments fully or want to build a new Runtime from scratch, you can access the Dockerfiles that were used to build the ML Runtime container images in this repository.
+  
+![AddRuntime.png](./images/AddRuntime.png)
 
+For this project, we'll need the NVIDIA version of a workbench and a jupyter runtimes using python 3.9, with all the packages and dependency deployed on the image to manage GPUs.
+  
+![Runtime1Workbench.png](./images/Runtime1Workbench.png) 
+
+![Runtime2jupyther.png](./images/Runtime2jupyther.png)  
+  
+  
 ### 0_session-resource-validation
 Before starting the project, a GPU resource validation needs to happen. 
 
