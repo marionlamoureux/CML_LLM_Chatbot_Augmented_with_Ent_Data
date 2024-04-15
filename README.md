@@ -245,8 +245,8 @@ The project is organized with the following folder structure:
 ```
 ## Data
 The `data`  directory stores all the individual sample documents that are used for context retrieval in the chatbot application
-- Sourced from:
-#TODO
+- Sourced from the British Telecommunication Self Help website, with 3 different how-to on trouble shooting Broadband were uploaded.
+- Because of the configuration of the models and compute resources and the vector database, files should be smaller than 500 words and not contain any return lines.
 
 ## Technologies Used
 #### Open-Source Models and Utilities
