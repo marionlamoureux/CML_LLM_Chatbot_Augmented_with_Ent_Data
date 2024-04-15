@@ -142,8 +142,12 @@ To create the application go to **Applications** > **New Application** with the 
 * **Enable Spark toggle**: No
 * **GPUs**: 1 GPU
 
-![create_app](./images/create_app.png)
-
+![create_app](./images/create_app.png)  
+  
+## CML LLM Chatbot
+![Marion_finalApp](./images/Marion_finalApp.png)
+  
+   
 ### 5. Model
 Deploying a model here will allow us to send requests to our bot in the form of prompt and have it send the answer back using a REST API.
 It referes a function within a R or python file: The function to be invoked inside the file. This function should take a single JSONencoded object (for example, a python dictionary) 
@@ -171,19 +175,16 @@ In the configuration window for you model indicate:
 `
 * **Runtime**: Workbench Python 3.9
 * **Edition**: Nvidia GPU
-* **Engine Profile**: 8vCPU / 64 GiB Memory
+* **Engine Profile**: 1vCPU / 2 GiB Memory
 * **Enable Spark toggle**: No
 * **GPUs**: 1 GPU
 * **Replicas**: 1
 
-## CML LLM Chatbot
-![Marion_finalApp](./images/Marion_finalApp.png)
 
-#### 5_model
 The **[Models](https://docs.cloudera.com/machine-learning/cloud/models/topics/ml-creating-and-deploying-a-model.html)** 
 is used to deploy a machine learning model into production for real-time prediction. 
 
-How to deploy a model  
+How to deploy a generic model  
 * **Step 1** - Writing in python the function for the model.  
 Example function:  
 ```python
@@ -209,25 +210,6 @@ def PredictFunc(args):
 `{
   "prompt":"Example question of your choice"
 }`  
-
-To deploy the model trailed in the previous step, from the Project page, click **Models > New
-Model** and create a new model with the following details:  
-
-* **Name**: Explainer
-* **Description**: Explain customer churn prediction
-* **Disable** authentication
-* **File**: 5_model_serve_explainer.py
-* **Function**: explain
-* **Input**: 
-```
-{
-"prompt":"Is this thing on?"
-}
-```
-* **Kernel**: Python 3
-* **Enable Spark**: No
-* **Engine Profile**: 1vCPU / 2 GiB Memory
-
 
 Leave the rest unchanged. Click **Deploy Model** and the model will go through the build 
 process and deploy a REST endpoint. Once the model is deployed, you can test it is working 
