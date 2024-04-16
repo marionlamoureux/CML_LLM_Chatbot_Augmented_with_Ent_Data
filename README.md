@@ -147,8 +147,10 @@ To create the application go to **Applications** > **New Application** with the 
 ## CML LLM Chatbot
 ![Marion_finalApp](./images/Marion_finalApp.png)
   
-   
-### 5. Model
+Congrats you're done!!  
+
+_Note to deploy a model_ 
+
 Deploying a model here will allow us to send requests to our bot in the form of prompt and have it send the answer back using a REST API.
 It referes a function within a R or python file: The function to be invoked inside the file. This function should take a single JSONencoded object (for example, a python dictionary) 
 as input and return a JSON-encodable object as output to ensure compatibility with any 
